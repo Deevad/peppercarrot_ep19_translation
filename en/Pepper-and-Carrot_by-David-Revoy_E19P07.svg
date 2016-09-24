@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E19P07.svg">
@@ -627,30 +627,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.64245955"
-     inkscape:cx="1186.3521"
-     inkscape:cy="363.25301"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="0.42242758"
+     inkscape:cx="854.70934"
+     inkscape:cy="1814.9582"
+     inkscape:window-x="1920"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep19_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -748,14 +748,14 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 732.46795,1196.1251 c 4.39973,-75.6565 46.32729,-82.0274 190.18829,-85.8612 152.78066,-4.0715 232.27956,8.3859 219.67946,90.8743 -3.0995,20.2922 -4.3022,38.4758 -45.2479,58.0442 -38.6312,18.4621 -126.80082,20.4566 -190.16487,19.1896 -55.826,-1.1164 -98.26475,-6.212 -124.98406,-19.4482 -23.41889,-11.6012 -43.34733,-9.8911 -49.47092,-62.7987 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 720.01581,1200.7946 c 4.54963,-75.6565 47.90569,-82.0274 196.6681,-85.8612 157.98589,-4.0715 240.19339,8.3859 227.16399,90.8743 -3.2051,20.2922 -4.4488,38.4758 -46.7895,58.0442 -39.9474,18.4621 -131.12094,20.4566 -196.64384,19.1896 -57.72802,-1.1164 -101.61268,-6.212 -129.24233,-19.4482 -24.21678,-11.6012 -44.8242,-9.8911 -51.15642,-62.7987 z"
        id="path3365"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1196.0702,1247.7226 c -49.4358,-22.6288 -99.2504,-39.7037 -133.061,-18.0787 -47.7942,30.5689 -24.2351,19.695 -24.2351,19.695 l 18.3095,-52.1641 c -2.8989,-3.6105 43.2218,-24.4374 138.9866,50.5478 z"
+       d="m 1206.9658,1255.5052 c -49.4358,-22.6288 -99.2504,-39.7037 -133.061,-18.0787 -47.7942,30.5689 -24.2351,19.695 -24.2351,19.695 l 18.3095,-52.1641 c -2.8989,-3.6105 43.2218,-24.4374 138.9866,50.5478 z"
        id="path3072-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccc" />
@@ -795,21 +795,26 @@
          id="tspan3608">forgotton the lyrics</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.15127087px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="939.64069"
-       y="1184.4091"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.15127087px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="936.52765"
+       y="1170.4004"
        id="text4246-70-2-2-2-7-6-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:38.06726837px"
-         x="939.64069"
-         y="1184.4091"
-         id="tspan3617">I'm sure my song book</tspan><tspan
+         x="936.52765"
+         y="1170.4004"
+         id="tspan3617">Maybe my song book</tspan><tspan
          sodipodi:role="line"
          style="font-size:38.06726837px"
-         x="939.64069"
-         y="1231.9932"
-         id="tspan3615">is here somewhere...</tspan></text>
+         x="936.52765"
+         y="1217.9845"
+         id="tspan3615">is here somewhere</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:38.06726837px"
+         x="936.52765"
+         y="1265.5686"
+         id="tspan4304"> too...</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.39256477px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
