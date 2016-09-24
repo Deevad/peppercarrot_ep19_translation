@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* English: Alex Gryson
 * French: David Revoy
 
 
@@ -20,7 +21,7 @@ License
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
 
-Script doctor: Craig Maloney. Proofreading and dialog help: Valvin, Seblediacre et Alex Gryson. Inspiration: "The book of secrets" by Juan José Segura
+Script doctor: Craig Maloney. Proofreading and dialog help: Valvin, Seblediacre and Alex Gryson. Inspiration: "The book of secrets" by Juan José Segura
 
 ## Downloads:
 
