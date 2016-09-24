@@ -174,10 +174,10 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.45428751"
-     inkscape:cx="1327.5893"
-     inkscape:cy="3149.3128"
-     inkscape:window-x="1920"
+     inkscape:zoom="0.39503262"
+     inkscape:cx="820.9797"
+     inkscape:cy="1829.7223"
+     inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
@@ -189,11 +189,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -258,7 +258,7 @@
        sodipodi:nodetypes="zsssssz" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 327.73943,2121.572 c 31.01343,-23.7788 292.80222,-49.5892 384.8115,-0.5862 92.00932,49.0031 36.20041,107.8068 -16.59188,126.517 -52.79219,18.7103 -208.15221,39.2025 -279.04453,23.1651 -70.89248,-16.0373 -126.11319,-40.0101 -129.7181,-89.0965 -1.47129,-20.0341 9.52947,-36.2206 40.54301,-59.9994 z"
+       d="m 329.24844,2121.572 c 32.1641,-23.7788 303.66587,-49.5892 399.08891,-0.5862 95.42308,49.0031 37.54353,107.8068 -17.20748,126.517 -54.7509,18.7103 -215.87514,39.2025 -289.39773,23.1651 -73.52276,-16.0373 -130.79229,-40.0101 -134.53095,-89.0965 -1.52587,-20.0341 9.88304,-36.2206 42.04725,-59.9994 z"
        id="path4040"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -376,7 +376,7 @@
          id="tspan3805">of their mistakes!  </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="529.90308"
        y="2178.3694"
        id="text4246-3-3-2"
@@ -385,7 +385,7 @@
          style="font-size:45px"
          x="537.81323"
          y="2178.3694"
-         id="tspan4212-0">Nice poetry mistress </tspan><tspan
+         id="tspan4212-0">Nice poetry, mistress </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="529.90308"

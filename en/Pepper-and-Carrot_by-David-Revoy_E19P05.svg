@@ -85,9 +85,9 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.60079524"
-     inkscape:cx="1586.5273"
-     inkscape:cy="302.25572"
-     inkscape:window-x="1920"
+     inkscape:cx="1542.1007"
+     inkscape:cy="419.48802"
+     inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -99,11 +99,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -151,7 +151,7 @@
        sodipodi:nodetypes="cccccccc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 887.32211,888.38152 c -0.79042,-16.47336 24.71857,-62.04816 134.05069,-56.80467 109.332,5.24349 143.0715,24.00836 145.4591,53.30904 3.7771,46.35286 -54.1343,57.58421 -136.8885,59.38885 -85.31067,1.86043 -137.9557,-14.22681 -142.62129,-55.89322 z"
+       d="m 920.60629,888.38152 c -0.56464,-16.47336 17.65795,-62.04816 95.76041,-56.80467 78.1024,5.24349 102.2046,24.00836 103.9101,53.30904 2.6982,46.35286 -38.6713,57.58421 -97.7876,59.38885 -60.94251,1.86043 -98.55,-14.22681 -101.88291,-55.89322 z"
        id="path3280"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -198,7 +198,7 @@
        sodipodi:nodetypes="cssscssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4386);enable-background:accumulate"
-       d="m 312.53168,392.09079 c 3.93973,-71.19865 104.27345,-76.35068 140.58317,-77.6029 17.92299,0.36932 120.96827,-6.49317 208.19826,-2.64655 87.22998,3.84661 159.33139,13.86324 164.05794,65.77999 8.15879,89.61659 -55.26614,74.49677 -131.57709,81.3127 -76.31094,6.81593 -164.56805,1.14928 -205.13377,2.24528 -80.00632,2.16159 -182.0349,6.22324 -176.12851,-69.08852 z"
+       d="m 292.57324,393.75525 c 4.18222,-71.19865 110.69164,-76.35068 149.23628,-77.6029 19.02617,0.36932 128.41405,-6.49317 221.01318,-2.64655 92.59911,3.84661 169.13847,13.86324 174.15595,65.77999 8.66098,89.61659 -58.66785,74.49677 -139.67586,81.3127 -81.00799,6.81593 -174.69746,1.14928 -217.76006,2.24528 -84.93083,2.16159 -193.23943,6.22324 -186.96949,-69.08852 z"
        id="path3145"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccssssc" />
@@ -214,7 +214,7 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="434.37378"
        y="212.50937"
        id="text4246-3-3-2"
@@ -228,10 +228,10 @@
          style="font-size:45px"
          x="434.37378"
          y="268.75937"
-         id="tspan3752">had our failures</tspan></text>
+         id="tspan3752">had our failures.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="566.86279"
        y="369.82779"
        id="text4246-3-3-2-3"
@@ -245,7 +245,7 @@
          style="font-size:45px"
          x="566.86279"
          y="426.07779"
-         id="tspan4173">Cayenne who wrote that</tspan></text>
+         id="tspan4173">Cayenne who wrote that.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"

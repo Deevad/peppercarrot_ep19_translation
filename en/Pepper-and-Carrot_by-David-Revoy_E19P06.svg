@@ -43,13 +43,13 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2112138"
-     inkscape:cx="221.98426"
-     inkscape:cy="2915.5942"
-     inkscape:window-x="1920"
+     inkscape:zoom="0.42482639"
+     inkscape:cx="1380.8946"
+     inkscape:cy="1207.5435"
+     inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -290,7 +290,7 @@
          id="tspan3661">debate tradtions!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="338.31299"
        y="1517.3076"
        id="text4246-70-2-2"
@@ -299,7 +299,7 @@
          style="font-size:45px"
          x="338.31299"
          y="1517.3076"
-         id="tspan4406">Oh look what</tspan><tspan
+         id="tspan4406">Oh, look what</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="338.31299"
@@ -341,7 +341,7 @@
          id="tspan3674">down here?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="509.49463"
        y="2483.7622"
        id="text4246-70-2-2-2-7-6"
@@ -355,11 +355,11 @@
          style="font-size:45px"
          x="509.49463"
          y="2540.0122"
-         id="tspan3681">a little tuning</tspan><tspan
+         id="tspan3681">a little tuning,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="509.49463"
          y="2596.2622"
-         id="tspan3683">but still strums alright</tspan></text>
+         id="tspan3683">but still strums alright.</tspan></text>
   </g>
 </svg>
