@@ -631,9 +631,9 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.42242758"
-     inkscape:cx="854.70934"
-     inkscape:cy="1814.9582"
+     inkscape:zoom="0.36732833"
+     inkscape:cx="287.28171"
+     inkscape:cy="2030.565"
      inkscape:window-x="1920"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -646,11 +646,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -737,13 +737,13 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 126.92412,1875.663 c -36.95786,-68.1702 63.26623,-175.0207 263.9509,-171.1196 182.09401,3.5397 287.91708,24.0394 300.44048,134.0841 5.68433,49.9489 -26.85313,103.667 -202.20345,133.5259 -175.35049,29.8587 -356.79332,-29.67 -362.18793,-96.4904 z"
+       d="m 168.03044,1899.1476 c -9.10749,-110.4955 16.52703,-196.8142 215.80186,-193.5783 224.40988,3.6442 247.60757,26.5814 260.04216,139.8742 5.64402,51.4231 11.60492,104.8943 -162.50182,135.6346 -174.10692,30.74 -307.98585,-13.1378 -313.3422,-81.9305 z"
        id="path3525-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 646.56017,1062.5272 c 0.77953,-50.0827 30.40364,-87.05832 164.88131,-79.7013 134.47762,7.35701 203.12912,4.26444 200.81062,73.1622 -2.1924,65.1489 -90.23358,67.7191 -192.02063,70.2511 -104.93146,2.6103 -169.68446,-17.5095 -173.6713,-63.712 z"
+       d="m 650.65624,1075.9066 c 0.77953,-47.8529 30.40364,-83.18234 164.88131,-76.15287 134.47762,7.02947 203.12915,4.07457 200.81065,69.90487 -2.1924,62.2483 -90.23361,64.7041 -192.02066,67.1234 -104.93146,2.4941 -169.68446,-16.73 -173.6713,-60.8754 z"
        id="path3280"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -761,7 +761,7 @@
        sodipodi:nodetypes="csccc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1000.0187,699.40625 c -7.28986,-33.8255 14.7108,-72.18973 30.5273,-84.29273 15.8165,-12.103 44.1289,-19.58491 70.4255,-26.53057 21.784,-5.75373 118.7224,-5.55581 187.5516,-4.75657 57.6523,0.66946 119.4282,22.41185 133.4133,57.12965 13.9851,34.7177 9.834,96.70314 -7.2559,116.93446 -17.0899,20.23133 -33.8924,42.17463 -133.9631,50.16334 -100.0707,7.98871 -224.0808,-4.67855 -253.5926,-45.39864 -16.637,-22.95568 -27.1061,-63.24894 -27.1061,-63.24894 z"
+       d="m 1000.0187,703.37584 c -7.28986,-32.61489 14.7108,-69.60607 30.5273,-81.2759 15.8165,-11.66984 44.1289,-18.88397 70.4255,-25.58105 21.784,-5.5478 118.7224,-5.35697 187.5516,-4.58633 57.6523,0.6455 119.4282,21.60973 133.4133,55.08499 13.9851,33.47516 9.834,93.24215 -7.2559,112.74939 -17.0899,19.50725 -33.8924,40.66521 -133.9631,48.368 -100.0707,7.7028 -224.0808,-4.5111 -253.5926,-43.77383 -16.637,-22.1341 -27.1061,-60.98527 -27.1061,-60.98527 z"
        id="path3286"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssc" />
@@ -778,20 +778,20 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-size:10.15127087px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="831.63568"
-       y="1030.2795"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.15127087px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="835.14661"
+       y="1048.4192"
        id="text4246-70-2-2-2-7-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:38.06726837px"
-         x="831.63568"
-         y="1030.2795"
+         x="835.14661"
+         y="1048.4192"
          id="tspan4213">Haha, I've</tspan><tspan
          sodipodi:role="line"
          style="font-size:38.06726837px"
-         x="831.63568"
-         y="1077.8636"
+         x="835.14661"
+         y="1096.0033"
          id="tspan3608">forgotton the lyrics</tspan></text>
     <text
        xml:space="preserve"

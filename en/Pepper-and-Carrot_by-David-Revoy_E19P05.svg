@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E19P05.svg">
@@ -80,15 +80,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34350663"
-     inkscape:cx="1293.7786"
-     inkscape:cy="862.99928"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="0.60079524"
+     inkscape:cx="1586.5273"
+     inkscape:cy="302.25572"
+     inkscape:window-x="1920"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -97,13 +97,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep19_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -121,7 +121,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1803.9497,3170.2116 c 38.997,-27.2694 366.1612,-54.6041 480.4784,3.1405 114.3173,57.7445 43.9572,125.3879 -22.1743,146.5629 -66.1313,21.1752 -260.3484,43.3987 -348.679,24.0956 -88.3308,-19.3031 -157.0027,-47.6536 -160.9381,-104.6172 -1.6062,-23.249 12.3158,-41.9121 51.313,-69.1818 z"
+       d="m 1811.2966,3170.2116 c 33.1167,-27.2694 310.9484,-54.6041 408.0279,3.1405 97.0796,57.7445 37.329,125.3879 -18.8307,146.5629 -56.1594,21.1752 -221.091,43.3987 -296.1023,24.0956 -75.0116,-19.3031 -133.3286,-47.6536 -136.6706,-104.6172 -1.364,-23.249 10.4588,-41.9121 43.5757,-69.1818 z"
        id="path4040"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -372,25 +372,25 @@
          id="tspan4328-8-9">I see...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="2045.6868"
-       y="3208.1523"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2023.0325"
+       y="3199.3425"
        id="text4246-3-3-2-3-5-6-2-0-3-6-7-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2045.6868"
-         y="3208.1523"
+         x="2023.0325"
+         y="3199.3425"
          id="tspan3708">You really can't</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2045.6868"
-         y="3264.4023"
+         x="2023.0325"
+         y="3255.5925"
          id="tspan3609">be embarrassed</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2045.6868"
-         y="3320.6523"
+         x="2023.0325"
+         y="3311.8425"
          id="tspan3702">by any of this...</tspan></text>
     <text
        sodipodi:linespacing="125%"
