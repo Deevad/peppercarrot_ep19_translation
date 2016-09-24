@@ -44,12 +44,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900001"
-     inkscape:cx="1445.1596"
+     inkscape:cx="1137.9762"
      inkscape:cy="2922.3647"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -193,16 +193,16 @@
          style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
          y="315.75345"
-         id="tspan4217">à poser aucun</tspan><tspan
+         id="tspan4217">a posé aucun</tspan><tspan
          sodipodi:role="line"
          style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="982.79468"
-         y="388.85529"
-         id="tspan4222">problèmes </tspan><tspan
+         y="388.85526"
+         id="tspan4222">problème </tspan><tspan
          sodipodi:role="line"
          style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
-         y="461.95709"
+         y="461.95706"
          id="tspan4224">jusque là!</tspan></text>
     <text
        xml:space="preserve"
