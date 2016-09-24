@@ -85,8 +85,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
-     inkscape:cx="1245.2729"
-     inkscape:cy="817.02285"
+     inkscape:cx="1084.0229"
+     inkscape:cy="942.02285"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -99,11 +99,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -228,7 +228,7 @@
          style="font-size:45px"
          x="434.37378"
          y="268.75937"
-         id="tspan4148">eu nos échecs</tspan></text>
+         id="tspan4148">eu nos échecs.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -245,7 +245,7 @@
          style="font-size:45px"
          x="566.86279"
          y="426.07779"
-         id="tspan4173">Cayenne qui a écrit ça</tspan></text>
+         id="tspan4173">Cayenne qui a écrit ça.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -267,7 +267,7 @@
          style="font-size:45px"
          x="2039.3848"
          y="603.17371"
-         id="tspan4208"> raison précise</tspan></text>
+         id="tspan4208"> raison précise.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -291,7 +291,7 @@
          style="font-size:45px"
          x="1020.2921"
          y="900.67383"
-         id="tspan4208-1-7">D'accord!</tspan></text>
+         id="tspan4208-1-7">D'accord !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -303,39 +303,39 @@
          style="font-size:45px"
          x="1187.8596"
          y="1007.8734"
-         id="tspan4208-1-7-9">Mais que dites vous</tspan><tspan
+         id="tspan4208-1-7-9">Mais que dites-vous</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1187.8596"
          y="1064.1234"
-         id="tspan4275">de ceci, hein?</tspan></text>
+         id="tspan4275">de ceci, hein ?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2108.282"
+       x="2103.282"
        y="2030.4532"
        id="text4246-3-3-2-3-5-6-2-0-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2108.282"
+         x="2103.282"
          y="2030.4532"
          id="tspan4302">C'est simplement un</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2108.282"
+         x="2103.282"
          y="2086.7031"
-         id="tspan4304">égarement de jeunesse</tspan><tspan
+         id="tspan4304">égarement de jeunesse...</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2108.282"
+         x="2103.282"
          y="2142.9531"
-         id="tspan4300">et d'ailleurs c'est pas</tspan><tspan
+         id="tspan4300">et d'ailleurs, c'est pas</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2108.282"
+         x="2103.282"
          y="2199.2031"
-         id="tspan4328"> de ton âge!</tspan></text>
+         id="tspan4328"> de ton âge !</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4314"

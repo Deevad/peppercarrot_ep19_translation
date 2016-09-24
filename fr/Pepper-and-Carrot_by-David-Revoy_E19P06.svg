@@ -43,9 +43,9 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.52900001"
-     inkscape:cx="1137.9762"
-     inkscape:cy="2922.3647"
+     inkscape:zoom="0.46000001"
+     inkscape:cx="1184.821"
+     inkscape:cy="1238.7062"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -135,7 +135,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 481.27782,827.21649 -20.91977,12.96296 c -46.25534,-5.04051 -174.08164,-11.95044 -239.31966,-8.33486 l -26.58596,8.87047 -14.3811,-16.37609 -6.53867,20.46857 -13.07337,-14.32781 -7.8464,19.7872 -15.68884,-9.55187 5.66618,20.46858 -8.71689,12.28155 -17.43381,-8.87047 9.58938,36.84469 c 1e-5,0 -10.02445,0.68345 -16.12607,0.68345 15.30764,29.67904 15.99674,179.92474 10.89466,232.61974 l -12.24637,9.2307 12.23846,11.6405 4.88075,4.3195 -20.5142,14.6211 15.36438,-0.9725 -11.94172,16.2584 12.6401,9.554 -0.87248,12.2794 -1.74299,7.5077 10.10773,8.185 -17.42731,18.0219 24.46256,-5.0239 0.72608,0.6504 c 0,0 -16.54338,24.7562 -21.08602,34.0563 13.30441,-5.6458 34.16106,-14.2702 35.90435,-14.9526 0.13984,-0.054 0.48458,-0.023 0.91601,0.043 l -10.94262,19.1594 26.39207,-14.8563 c 1.80177,0.5199 3.61718,1.0355 5.39712,1.5113 l -5.05808,17.3048 28.27479,-13.9412 c 9.08248,1.6416 20.3198,4.6407 23.00899,5.1084 3.92244,0.6824 24.84253,-6.8232 29.63667,-6.1408 4.79414,0.6822 48.81223,8.187 52.73467,8.187 3.92245,0 27.89271,-2.7287 33.12265,-3.411 5.22992,-0.6822 32.68697,3.411 37.4811,3.411 4.79404,0 13.07556,-6.8233 17.43379,-7.5056 4.35836,-0.6823 16.56119,4.0949 19.61204,5.4594 3.05077,1.3648 24.842,3.4111 30.07193,3.4111 5.22993,0 42.7511,-7.1472 52.29943,-4.0946 6.93673,2.2176 70.15596,0.1985 104.11414,-2.1866 l -3.57104,16.1614 22.02571,-17.9124 c 1.81226,-0.2909 2.86501,-0.5727 2.94982,-0.8383 0,0 6.97308,12.965 9.15215,12.965 2.17916,0 5.66644,-10.9189 6.97392,-12.2835 1.30749,-1.3647 10.46083,6.1417 12.6401,5.4593 2.17917,-0.6823 3.05072,-14.3279 3.05072,-14.3279 l 2.17823,-6.8241 c 0,0 6.10193,-2.0465 8.71691,-4.776 2.61495,-2.7292 -0.43653,-14.3286 -3.92321,-19.7871 3.05087,-2.7293 10.46013,-7.5043 11.76763,-10.2334 1.30756,-2.7295 -3.05072,-11.6001 -3.05072,-11.6001 0,0 2.61563,-4.7754 3.9232,-8.1869 1.30749,-3.4119 -8.16063,-14.7973 -8.16063,-14.7973 0,0 8.16008,-11.1314 8.59588,-15.2253 0.38519,-3.6187 -1.95584,-7.2323 -5.81457,-8.0239 l 12.1178,-7.1525 -13.70844,-2.42 c -1.05752,-38.1375 -1.76711,-165.2013 5.86008,-197.54262 l 16.46042,-13.38625 -16.04694,-6.28739 c -1.11733,-1.57248 -2.3318,-3.18966 -3.59676,-4.79657 l 12.02877,-9.78107 -23.50556,-9.21116 0,-12.18245 -8.7169,-6.82218 c 0,0 0.37656,-1.78973 0.74982,-4.37123 l 9.05917,-17.68312 -31.23127,5.75671 0.0752,0.33657 c -10.36608,-1.78366 -18.74945,-6.5558 -18.74945,-6.5558 l 4.7937,-30.70391 -32.25213,15.01126 -2.17824,-12.96296 -13.5106,12.28157 -4.35846,-19.78719 -13.5106,15.01125 -11.33237,-7.79742 -2.54913,2.41196 -10.45989,-8.87048 -10.45988,8.18702 -20.83867,4.29037 -6.10144,-19.10373 z"
+       d="m 481.27782,827.21649 -20.91977,12.96296 c -46.25534,-5.04051 -174.08164,-11.95044 -239.31966,-8.33486 l -26.58596,8.87047 -14.3811,-16.37609 -6.53867,20.46857 -13.07337,-14.32781 -7.8464,19.7872 -15.68884,-9.55187 5.66618,20.46858 -8.71689,12.28155 -17.43381,-8.87047 9.58938,36.84469 c 1e-5,0 -10.02445,0.68345 -16.12607,0.68345 15.30764,29.67904 15.99674,179.92474 10.89466,232.61974 l -12.24637,9.2307 12.23846,11.6405 4.88075,4.3195 -20.5142,14.6211 15.36438,-0.9725 -11.94172,16.2584 12.6401,9.554 -0.87248,12.2794 -1.74299,7.5077 10.10773,8.185 -17.42731,18.0219 24.46256,-5.0239 0.72608,0.6504 c 0,0 -16.54338,24.7562 -21.08602,34.0563 13.30441,-5.6458 34.16106,-14.2702 35.90435,-14.9526 0.13984,-0.054 0.48458,-0.023 0.91601,0.043 l -10.94262,19.1594 26.39207,-14.8563 c 1.80177,0.5199 3.61718,1.0355 5.39712,1.5113 l -5.05808,17.3048 28.27479,-13.9412 c 9.08248,1.6416 20.3198,4.6407 23.00899,5.1084 3.92244,0.6824 24.84253,-6.8232 29.63667,-6.1408 4.79414,0.6822 48.81223,8.187 52.73467,8.187 3.92245,0 27.89271,-2.7287 33.12265,-3.411 5.22992,-0.6822 32.68697,3.411 37.4811,3.411 4.79404,0 13.07556,-6.8233 17.43379,-7.5056 4.35836,-0.6823 16.56119,4.0949 19.61204,5.4594 3.05077,1.3648 24.842,3.4111 30.07193,3.4111 5.22993,0 42.7511,-7.1472 52.29943,-4.0946 6.93673,2.2176 70.15596,0.1985 104.11414,-2.1866 l -3.57104,16.1614 22.02571,-17.9124 c 1.81226,-0.2909 2.86501,-0.5727 2.94982,-0.8383 0,0 6.97308,12.965 9.15215,12.965 2.17916,0 5.66644,-10.9189 6.97392,-12.2835 1.30749,-1.3647 10.46083,6.1417 12.6401,5.4593 2.17917,-0.6823 3.05072,-14.3279 3.05072,-14.3279 l 2.17823,-6.8241 c 0,0 6.10193,-2.0465 8.71691,-4.776 2.61495,-2.7292 -0.43653,-14.3286 -3.92321,-19.7871 3.05087,-2.7293 10.46013,-7.5043 11.76763,-10.2334 1.30756,-2.7295 -3.05072,-11.6001 -3.05072,-11.6001 0,0 2.61563,-4.7754 3.9232,-8.1869 1.30749,-3.4119 -8.16063,-14.7973 -8.16063,-14.7973 0,0 8.16008,-11.1314 8.59588,-15.2253 0.38519,-3.6187 -1.95584,-7.2323 -5.81457,-8.0239 l 12.1178,-7.1525 -13.70844,-2.42 c -1.05752,-38.1375 0.39453,-183.57522 8.02172,-215.91654 l 16.46042,-13.38625 -16.04694,-6.28739 c -1.11733,-1.57248 -2.3318,-3.18966 -3.59676,-4.79657 l 12.02877,-9.78107 -23.50556,-9.21116 0,-12.18245 -8.7169,-6.82218 c 0,0 0.37656,-1.78973 0.74982,-4.37123 l 9.05917,-17.68312 -31.23127,5.75671 0.0752,0.33657 c -10.36608,-1.78366 -18.74945,-6.5558 -18.74945,-6.5558 l 4.7937,-30.70391 -34.41377,33.38518 -2.17824,-12.96296 -13.5106,12.28157 -4.35846,-19.78719 -13.5106,15.01125 -11.33237,-7.79742 -2.54913,2.41196 -10.45989,-8.87048 -10.45988,8.18702 -20.83867,4.29037 -6.10144,-19.10373 z"
        id="path3894"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccscsscssccccscccccccccccccccccccccccccccccccccccccccc" />
@@ -157,25 +157,25 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.0573225px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
-       x="386.09131"
-       y="934.58612"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.31860447px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
+       x="392.25803"
+       y="934.92853"
        id="text4246"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:55.28661346px;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
-         x="386.09131"
-         y="934.58612"
+         style="font-size:51.59302139px;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
+         x="392.25806"
+         y="934.92853"
          id="tspan4150">Mais <tspan
-   style="stroke:#000000;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan4183">l'environment</tspan>!</tspan><tspan
+   style="stroke:#000000;stroke-width:1.67974544;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4183">l'environnement </tspan>!</tspan><tspan
          sodipodi:role="line"
-         style="font-size:55.28661346px;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
-         x="386.09131"
-         y="1003.6944"
+         style="font-size:51.59302139px;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
+         x="392.25803"
+         y="999.4198"
          id="tspan4176">La <tspan
-   style="stroke:#000000;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan4185">nature</tspan>!</tspan></text>
+   style="stroke:#000000;stroke-width:1.67974544;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4185">nature </tspan>!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.69629097px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none"
@@ -188,7 +188,7 @@
          style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
          y="242.65163"
-         id="tspan4221"> Ca ne nous</tspan><tspan
+         id="tspan4221"> Ça ne nous</tspan><tspan
          sodipodi:role="line"
          style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
@@ -203,20 +203,20 @@
          style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
          y="461.95706"
-         id="tspan4224">jusque là!</tspan></text>
+         id="tspan4224">jusque-là!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.69629097px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none"
-       x="1000.3171"
-       y="1096.5863"
+       x="1008.7495"
+       y="1101.3928"
        id="text4246-7-9"
        sodipodi:linespacing="125%"
        transform="scale(0.97469088,1.0259663)"><tspan
          sodipodi:role="line"
          style="font-size:58.48145294px;stroke:#000000;stroke-width:2.24178886;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1010.597"
-         y="1096.5863"
-         id="tspan4221-2"> PROFONDEMENT! </tspan></text>
+         x="1019.0294"
+         y="1101.3928"
+         id="tspan4221-2"> PROFONDEMENT ! </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -260,12 +260,12 @@
          style="font-size:45px"
          x="969.58252"
          y="936.52979"
-         id="tspan4320">sorcières de Chaosah!</tspan><tspan
+         id="tspan4320">sorcières de Chaosah !</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="969.58252"
          y="992.77979"
-         id="tspan4324">Et nos problèmes on</tspan><tspan
+         id="tspan4324">Et nos problèmes, on</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="969.58252"
@@ -274,20 +274,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="973.31299"
-       y="1195.8076"
+       x="979.88812"
+       y="1192.52"
        id="text4246-70-2-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="973.31299"
-         y="1195.8076"
+         x="979.88812"
+         y="1192.52"
          id="tspan4328-0">On ne discute pas</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="973.31299"
-         y="1252.0576"
-         id="tspan4366">les tradtions!</tspan></text>
+         x="979.88812"
+         y="1248.77"
+         id="tspan4366">les tradtions !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -299,7 +299,7 @@
          style="font-size:45px"
          x="338.31299"
          y="1473.3076"
-         id="tspan4328-9">Oh regardez</tspan><tspan
+         id="tspan4328-9">Oh, regardez</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="338.31299"
@@ -309,19 +309,19 @@
          style="font-size:45px"
          x="338.31299"
          y="1585.8076"
-         id="tspan4406">retrouver!</tspan></text>
+         id="tspan4406">retrouver !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="407.20337"
-       y="1684.1035"
+       x="405.02945"
+       y="1688.4513"
        id="text4246-70-2-2-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="407.20337"
-         y="1684.1035"
-         id="tspan4406-9">J'y crois pas!</tspan></text>
+         x="405.02945"
+         y="1688.4513"
+         id="tspan4406-9">J'y crois pas !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -333,12 +333,12 @@
          style="font-size:45px"
          x="400.75806"
          y="2158.8105"
-         id="tspan4406-9-3">Comment ça a pu se</tspan><tspan
+         id="tspan4455">Comment elle a pu</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="400.75806"
          y="2215.0605"
-         id="tspan4455">retrouver là?</tspan></text>
+         id="tspan4190">atterrir ici ?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -355,11 +355,11 @@
          style="font-size:45px"
          x="509.49463"
          y="2540.0122"
-         id="tspan4482">d'un petit accordage mais</tspan><tspan
+         id="tspan4482">d'un petit accordage, mais</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="509.49463"
          y="2596.2622"
-         id="tspan4486">elle sonne toujours</tspan></text>
+         id="tspan4486">elle sonne toujours.</tspan></text>
   </g>
 </svg>

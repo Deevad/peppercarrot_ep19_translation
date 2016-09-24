@@ -83,13 +83,13 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
-     inkscape:cx="1286.9903"
-     inkscape:cy="2227.425"
+     inkscape:zoom="0.46000001"
+     inkscape:cx="909.44809"
+     inkscape:cy="887.21742"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -98,11 +98,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -238,7 +238,7 @@
          style="font-size:37.30024719px"
          x="1807.7178"
          y="2616.5117"
-         id="tspan4236-9">Aller, </tspan><tspan
+         id="tspan4236-9">Allez, </tspan><tspan
          sodipodi:role="line"
          style="font-size:37.30024719px"
          x="1807.7178"
