@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project [ ALPHA , don't translate now please :) ] 
+# Pepper&Carrot translation project
 # Episode 19: Pollution
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
