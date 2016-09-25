@@ -80,15 +80,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
-     inkscape:cx="677.77291"
-     inkscape:cy="942.02285"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:cx="1451.1207"
+     inkscape:cy="994.43018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -97,13 +97,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep19_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -419,7 +419,7 @@
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.06008911px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan4430">Thyme</tspan></text>
+         id="tspan4430">Thym</tspan></text>
     <use
        x="0"
        y="0"
