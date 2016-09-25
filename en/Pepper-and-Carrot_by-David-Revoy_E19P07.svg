@@ -627,30 +627,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.27775299"
-     inkscape:cx="403.14431"
-     inkscape:cy="1796.4246"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:zoom="0.55550598"
+     inkscape:cx="1211.9383"
+     inkscape:cy="2086.8436"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep19_translation\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -792,7 +792,7 @@
          style="font-size:38.06726837px"
          x="835.14661"
          y="1096.0033"
-         id="tspan3608">forgotton the lyrics!</tspan></text>
+         id="tspan3608">forgotten the lyrics!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.15127087px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -871,7 +871,7 @@
          id="tspan3604">rules of Chaosah:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="387.9476"
        y="2009.0479"
        id="text4246-3-3-6-9"
@@ -880,7 +880,7 @@
          style="font-size:45px"
          x="387.9476"
          y="2009.0479"
-         id="tspan4284">From now on we</tspan></text>
+         id="tspan4284">From now on, we</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
