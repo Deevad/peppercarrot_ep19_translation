@@ -170,25 +170,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.39503262"
-     inkscape:cx="820.9797"
-     inkscape:cy="1829.7223"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:cx="1334.5544"
+     inkscape:cy="1722.796"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep19_translation\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
        width="2481"
        height="3503"
        id="image10"
@@ -293,7 +293,7 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="384.60165"
        y="1318.5765"
        id="text4246"
@@ -312,10 +312,10 @@
          style="font-size:45px"
          x="392.51181"
          y="1431.0765"
-         id="tspan3759">golden-locked! ...&quot; </tspan></text>
+         id="tspan3759">golden-locked!&quot; </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1503.4895"
        y="1314.1467"
        id="text4246-3"
@@ -324,12 +324,12 @@
          style="font-size:45px"
          x="1503.4895"
          y="1314.1467"
-         id="tspan4179">&quot;... You who haunts</tspan><tspan
+         id="tspan4179">&quot;...You who haunt</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1511.3997"
          y="1370.3967"
-         id="tspan3765">my chaos! ...&quot; </tspan></text>
+         id="tspan3765">my chaos!&quot; </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
