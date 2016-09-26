@@ -181,6 +181,12 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
     <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 990.3039,2942.0433 c -39.7219,-30.7338 -84.6659,-56.332 -118.3207,-93.0329 l 9.2071,41.4633 c -19.1495,-7.3977 -31.9655,-24.339 -46.9322,-38.0398 l 1.0996,26.2988 c -44.9905,-17.9715 -75.7521,-49.3371 -113.3909,-74.2288 l 5.8989,45.8738 c 41.0512,21.0955 84.9859,35.8216 122.7937,64.0815 l 1.7812,-25.6614 c 14.445,8.0961 28.5921,16.7337 41.4085,27.7896 l -0.8973,-32.5393 z"
+       id="path4032-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
        style="fill:#ffffff;stroke:none"
        d="m 1699.0736,2771.0202 c 5.0501,-60.4636 35.5091,-85.0538 49.33,-93.079 13.8207,-8.0252 71.8414,-18.3199 109.742,-16.548 37.9006,1.7719 131.855,10.4999 147.6558,13.4066 15.8008,2.9066 57.954,48.234 57.5018,87.2344 -0.4521,39.0001 -8.9041,64.619 -31.9343,87.3886 -23.0304,22.7698 -160.4271,27.1856 -168.8922,24.6219 -8.4654,-2.5636 -121.5161,-23.0237 -128.5726,-29.8572 -7.0564,-6.8334 -35.6546,-25.5131 -34.8305,-73.1673 z"
        id="path3278"
@@ -201,12 +207,6 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1490.4164,2866.2226 c 36.6716,-30.7338 78.1642,-56.332 109.2346,-93.0329 l -8.5001,41.4633 c 17.679,-7.3977 29.5108,-24.339 43.3282,-38.0398 l -1.0152,26.2988 c 41.5356,-17.9715 69.9349,-49.3371 104.6834,-74.2288 l -5.4459,45.8738 c -37.8988,21.0955 -78.4597,35.8216 -113.3641,64.0815 l -1.6444,-25.6614 c -13.3358,8.0961 -26.3965,16.7337 -38.2287,27.7896 l 0.8284,-32.5393 z"
        id="path4032"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 990.3039,2942.0433 c -39.7219,-30.7338 -84.6659,-56.332 -118.3207,-93.0329 l 9.2071,41.4633 c -19.1495,-7.3977 -31.9655,-24.339 -46.9322,-38.0398 l 1.0996,26.2988 c -44.9905,-17.9715 -75.7521,-49.3371 -113.3909,-74.2288 l 5.8989,45.8738 c 41.0512,21.0955 84.9859,35.8216 122.7937,64.0815 l 1.7812,-25.6614 c 14.445,8.0961 28.5921,16.7337 41.4085,27.7896 l -0.8973,-32.5393 z"
-       id="path4032-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
   </g>
@@ -287,6 +287,32 @@
          x="1637.3901"
          y="731.69336"
          id="tspan3849">around the house too.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178-6-5-9-0-7-0-4"
+       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16);font-family:Lavi;-inkscape-font-specification:Lavi"
+       xml:space="preserve"
+       y="3129.8394"
+       x="1318.7137"
+       transform="matrix(0.68459399,-0.0716406,-0.09363946,0.78222233,128.19701,-965.22278)"><tspan
+         y="3129.8394"
+         x="1318.7137"
+         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         sodipodi:role="line"
+         id="tspan4293-1-6-3-5-0-2">Tomatoes</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178-6-5-9-0-7-0-4-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-3)"
+       xml:space="preserve"
+       y="3129.8394"
+       x="1318.7137"
+       transform="matrix(0.57866569,0.12168979,-0.4356083,0.67919126,2328.1699,-927.44478)"><tspan
+         y="3129.8394"
+         x="1318.7137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan4293-1-6-3-5-0-2-5">Aubergines</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -379,6 +405,33 @@
          id="tspan4378" /></text>
     <text
        xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       x="547.53906"
+       y="2811.6135"
+       id="text4246-3-2-9-6-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="547.53906"
+         y="2811.6135"
+         id="tspan4574">your Hippiah costume</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="547.53906"
+         y="2867.8635"
+         id="tspan3907">is no doubt going</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="547.53906"
+         y="2924.1135"
+         id="tspan3605">to your head.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="547.53906"
+         y="2980.3635"
+         id="tspan4378-5" /></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1882.85"
        y="2725.4656"
@@ -465,58 +518,5 @@
          x="2083.4753"
          y="3332.0076"
          id="tspan4378-7-6-4" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="547.53906"
-       y="2811.6135"
-       id="text4246-3-2-9-6-6-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="547.53906"
-         y="2811.6135"
-         id="tspan4574">your Hippiah costume</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="547.53906"
-         y="2867.8635"
-         id="tspan3907">is no doubt going</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="547.53906"
-         y="2924.1135"
-         id="tspan3605">to your head.</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="547.53906"
-         y="2980.3635"
-         id="tspan4378-5" /></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4178-6-5-9-0-7-0-4"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16);font-family:Lavi;-inkscape-font-specification:Lavi"
-       xml:space="preserve"
-       y="3129.8394"
-       x="1318.7137"
-       transform="matrix(0.68459399,-0.0716406,-0.09363946,0.78222233,128.19701,-965.22278)"><tspan
-         y="3129.8394"
-         x="1318.7137"
-         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
-         sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-2">Tomatoes</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4178-6-5-9-0-7-0-4-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-3)"
-       xml:space="preserve"
-       y="3129.8394"
-       x="1318.7137"
-       transform="matrix(0.57866569,0.12168979,-0.4356083,0.67919126,2328.1699,-927.44478)"><tspan
-         y="3129.8394"
-         x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
-         sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-2-5">Aubergines</tspan></text>
   </g>
 </svg>

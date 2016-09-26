@@ -181,15 +181,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="artwork"
-     sodipodi:insensitive="true" />
-  <image
-     sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep19_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19.png"
-     xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19.png"
-     width="1100"
-     height="765"
-     id="image10"
-     x="0"
-     y="0" />
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/ruben/git/peppercarrot/peppercarrot_ep19_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="765"
+       width="1100" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"

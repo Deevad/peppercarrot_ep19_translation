@@ -142,14 +142,49 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="txt">
+     inkscape:label="txt"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1177.4561"
+       y="1950.6425"
+       id="text4246-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1185.3662"
+         y="1950.6425"
+         id="tspan4183-8">I'm going in. </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="2137.0017"
        y="2370.491"
        id="text4246"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="1174.7997"
+         y="2038.2527"
+         id="text4246-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           style="font-size:45px"
+           x="1174.7997"
+           y="2038.2527"
+           id="tspan4183">No use in</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:45px"
+           x="1174.7997"
+           y="2094.5027"
+           id="tspan3951">watching you</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:45px"
+           x="1182.7098"
+           y="2150.7527"
+           id="tspan3953">dig... </tspan></text>
+<tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2137.0017"
@@ -158,28 +193,6 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1174.7997"
-       y="2038.2527"
-       id="text4246-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="1174.7997"
-         y="2038.2527"
-         id="tspan4183">No use in</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="1174.7997"
-         y="2094.5024"
-         id="tspan3951">watching you</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="1182.7098"
-         y="2150.7524"
-         id="tspan3953">dig... </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="1268.4561"
        y="2249.5215"
        id="text4246-3-7"
@@ -206,7 +219,7 @@
          id="tspan3968">can to rest. </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="2111.6384"
        y="2365.1826"
        id="text4246-3-7-6"
@@ -250,7 +263,7 @@
          id="tspan3987">I'll hurry! </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="942.81274"
        y="2838.0046"
        id="text4246-3-7-6-7-0"
@@ -270,11 +283,11 @@
          x="950.7229"
          y="2950.5046"
          id="tspan4770"><tspan
-   style="stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   style="stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan4772">burying everything</tspan>? </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1026.5442"
        y="3025.0105"
        id="text4246-3-7-6-7-0-9"
@@ -291,7 +304,7 @@
          id="tspan4782">better if we... </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="2037.533"
        y="3281.2891"
        id="text4246-3-7-6-7-0-9-3"
@@ -301,19 +314,7 @@
          x="2037.533"
          y="3281.2891"
          id="tspan4464-5">If <tspan
-   style="stroke:#000000;stroke-width:2.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   style="stroke:#000000;stroke-width:2.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan4493">WHAT</tspan>?</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1177.4561"
-       y="1950.6425"
-       id="text4246-3-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="1185.3662"
-         y="1950.6425"
-         id="tspan4183-8">I'm going in. </tspan></text>
   </g>
 </svg>
