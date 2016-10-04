@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="1100"
    height="765"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E19.svg">
@@ -156,6 +156,32 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5236-4-16-3"
+       x="-0.0089085409"
+       width="1.0178171"
+       y="-0.027928527"
+       height="1.0558571">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.49168068"
+         id="feGaussianBlur5238-0-4-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5236-4-16"
+       x="-0.0089085409"
+       width="1.0178171"
+       y="-0.027928527"
+       height="1.0558571">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.49168068"
+         id="feGaussianBlur5238-0-4" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -166,15 +192,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.63330846"
-     inkscape:cx="762.87066"
-     inkscape:cy="311.11961"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="0.72830473"
+     inkscape:cx="607.23186"
+     inkscape:cy="450.17872"
+     inkscape:window-x="1920"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -183,13 +209,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/ruben/git/peppercarrot/peppercarrot_ep19_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="1100"
        height="765"
-       width="1100" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -207,5 +233,31 @@
          x="322.38379"
          y="736.31476"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 19: Pollution</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178-6-5-9-0-7-0-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16)"
+       xml:space="preserve"
+       y="3129.8394"
+       x="1318.7137"
+       transform="matrix(0.34257888,-0.03530105,-0.04997129,0.41720529,-10.680189,-629.23983)"><tspan
+         y="3129.8394"
+         x="1318.7137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan4293-1-6-3-5-0-2">Tomatoes</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178-6-5-9-0-7-0-4-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-3)"
+       xml:space="preserve"
+       y="3129.8394"
+       x="1318.7137"
+       transform="matrix(0.29271966,0.0444502,-0.19493314,0.37716453,1000.4724,-629.49551)"><tspan
+         y="3129.8394"
+         x="1318.7137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan4293-1-6-3-5-0-2-5">Aubergines</tspan></text>
   </g>
 </svg>
