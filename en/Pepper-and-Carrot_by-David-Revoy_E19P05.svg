@@ -84,10 +84,10 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.60079524"
-     inkscape:cx="1542.1007"
-     inkscape:cy="419.48802"
-     inkscape:window-x="0"
+     inkscape:zoom="0.34350663"
+     inkscape:cx="1492.3002"
+     inkscape:cy="1051.3698"
+     inkscape:window-x="1920"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -99,11 +99,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -312,29 +312,29 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.4;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4436);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.64099995;fill:#241c1c;fill-opacity:1;stroke:none;filter:url(#filter4436)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.62399478,-0.1720315,0.25159317,0.58064828,-99.217904,-108.50064)"><tspan
+       transform="matrix(0.68323005,-0.18026525,0.27547669,0.60843919,-261.43744,-182.58505)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#241c1c;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4293-1-6-3-5-0-2">CHAOSAH</tspan><tspan
          y="3180.6853"
          x="1318.7137"
-         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#241c1c;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4422">SUTRA</tspan><tspan
-         y="3222.9426"
+         y="3223.7019"
          x="1318.7137"
-         style="font-size:32.06008911px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.06008911px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#241c1c;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4426">by</tspan><tspan
-         y="3263.0176"
+         y="3263.7771"
          x="1318.7137"
-         style="font-size:32.06008911px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.06008911px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#241c1c;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4430">Thyme</tspan></text>
     <text
@@ -369,7 +369,7 @@
        y="0"
        xlink:href="#text4178-6-5-9-0-7-0-4"
        id="use4440"
-       transform="matrix(1.4623142,0.88716473,-0.87369993,1.6178644,1159.8797,-1211.3386)"
+       transform="matrix(1.7191858,0.78546962,-0.89078499,2.0163672,807.20751,-1621.7765)"
        width="100%"
        height="100%" />
     <text

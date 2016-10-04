@@ -70,9 +70,9 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.529"
-     inkscape:cx="1084.3582"
-     inkscape:cy="803.9665"
+     inkscape:zoom="0.34782609"
+     inkscape:cx="987.32328"
+     inkscape:cy="1334.8201"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -85,11 +85,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -369,7 +369,7 @@
          style="font-size:45px;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="429.47217"
          y="2640.6389"
-         id="tspan4217"> </tspan><tspan
+         id="tspan4217" /><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="421.56201"
@@ -511,7 +511,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.68459399,-0.0716406,-0.09363946,0.78222233,128.19701,-965.22278)"><tspan
+       transform="matrix(0.68593226,-0.05743026,-0.10983858,0.78011257,180.17523,-972.47418)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
@@ -524,7 +524,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.57866569,0.12168979,-0.4356083,0.67919126,2328.1699,-927.44478)"><tspan
+       transform="matrix(0.58613284,0.07817086,-0.38371304,0.70980255,2152.23,-969.61056)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"

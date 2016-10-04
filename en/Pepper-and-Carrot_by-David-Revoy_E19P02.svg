@@ -66,15 +66,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.48579174"
-     inkscape:cx="1166.7794"
-     inkscape:cy="-86.335223"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.4224276"
+     inkscape:cx="1121.6917"
+     inkscape:cy="997.33668"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -83,13 +83,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep19_translation\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -290,14 +290,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.68459399,-0.0716406,-0.09363946,0.78222233,128.19701,-965.22278)"><tspan
+       transform="matrix(0.6851492,-0.06612027,-0.09994133,0.78144216,149.5816,-965.35698)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4293-1-6-3-5-0-2">Tomatoes</tspan></text>
     <text
@@ -307,7 +307,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.57866569,0.12168979,-0.4356083,0.67919126,2328.1699,-927.44478)"><tspan
+       transform="matrix(0.58543203,0.08325699,-0.38986142,0.70644422,2171.8616,-965.83592)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"

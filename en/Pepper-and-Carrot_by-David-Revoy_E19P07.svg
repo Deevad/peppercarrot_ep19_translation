@@ -627,15 +627,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.55550598"
-     inkscape:cx="1211.9383"
-     inkscape:cy="2086.8436"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.3652542"
+     inkscape:cx="1251.5222"
+     inkscape:cy="1209.0025"
+     inkscape:window-x="1920"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -644,13 +644,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep19_translation\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -682,13 +682,13 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1000.0187,703.37584 c -7.28986,-32.61489 14.7108,-69.60607 30.5273,-81.2759 15.8165,-11.66984 44.1289,-18.88397 70.4255,-25.58105 21.784,-5.5478 118.7224,-5.35697 187.5516,-4.58633 57.6523,0.6455 119.4282,21.60973 133.4133,55.08499 13.9851,33.47516 9.834,93.24215 -7.2559,112.74939 -17.0899,19.50725 -33.8924,40.66521 -133.9631,48.368 -100.0707,7.7028 -224.0808,-4.5111 -253.5926,-43.77383 -16.637,-22.1341 -27.1061,-60.98527 -27.1061,-60.98527 z"
+       d="m 1014.42,694.37504 c -7.2899,-32.61489 14.7108,-69.60607 30.5273,-81.2759 15.8165,-11.66984 44.1289,-18.88397 70.4255,-25.58105 21.784,-5.5478 118.7224,-5.35697 187.5516,-4.58633 57.6523,0.6455 119.4282,21.60973 133.4133,55.08499 13.9851,33.47516 9.834,93.24215 -7.2559,112.74939 -17.0899,19.50725 -33.8924,40.66521 -133.9631,48.368 -100.0707,7.7028 -224.0808,-4.5111 -253.5926,-43.77383 -16.637,-22.1341 -27.1061,-60.98527 -27.1061,-60.98527 z"
        id="path3286"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1249.8615,895.0953 c -48.0765,-27.09972 -52.9733,-81.65673 -52.1334,-99.98338 2.691,-58.70861 28.2795,-40.011 28.2795,-40.011 0,0 -19.0722,94.76375 23.8539,139.99438 z"
+       d="m 1264.2628,886.0945 c -48.0765,-27.09972 -52.9733,-81.65673 -52.1334,-99.98338 2.691,-58.70861 28.2795,-40.011 28.2795,-40.011 0,0 -19.0722,94.76375 23.8539,139.99438 z"
        id="path5002"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscc" />
@@ -752,30 +752,30 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-size:11.39256477px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="1216.9191"
-       y="654.97266"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.39256477px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1231.3203"
+       y="645.97186"
        id="text4246-70-2-2-2-7-6-3-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:42.72212219px"
-         x="1216.9191"
-         y="654.97266"
+         x="1231.3203"
+         y="645.97186"
          id="tspan4205">How did it</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.72212219px"
-         x="1216.9191"
-         y="708.37531"
+         x="1231.3203"
+         y="699.37451"
          id="tspan3621">go again? Cha~Cha</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.72212219px"
-         x="1216.9191"
-         y="761.77795"
+         x="1231.3203"
+         y="752.77716"
          id="tspan4173-5">Cha, Chaooosah!</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.72212219px"
-         x="1216.9191"
-         y="815.1806"
+         x="1231.3203"
+         y="806.17981"
          id="tspan4211" /></text>
     <text
        xml:space="preserve"
@@ -907,27 +907,27 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#333333;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.87827662,0.12850803,-0.49642746,1.0441403,2303.9721,-511.28381)"><tspan
+       transform="matrix(0.7789993,0.22056585,-0.41432955,0.84306289,2185.9622,-7.9472473)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4293-1-6-3-5-0-2">glass</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4-7"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#333333;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-4);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-4)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.87827662,0.12850803,-0.49642746,1.0441403,2602.0602,-565.07821)"><tspan
+       transform="matrix(0.68751926,0.00310904,0.11179281,0.7439472,890.21837,525.37583)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4293-1-6-3-5-0-2-1">metal</tspan></text>
     <text
