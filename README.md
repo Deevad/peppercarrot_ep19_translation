@@ -17,6 +17,8 @@ License
 
 * French: David Revoy
 
+* Italian: Carlo Gandolfi, corrections: Antonio Parisi
+
 * Mexicano: RJ Quiralta
 
 
