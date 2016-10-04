@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900001"
-     inkscape:cx="1205.2082"
-     inkscape:cy="3223.4044"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1061.5409"
+     inkscape:cy="576.90161"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep19_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep19_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -164,18 +164,18 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:51.59302139px;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
-         x="392.25806"
+         x="392.25803"
          y="934.92853"
-         id="tspan4150">Mais <tspan
+         id="tspan4150">Maar het <tspan
    style="stroke:#000000;stroke-width:1.67974544;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan4183">l'environnement </tspan>!</tspan><tspan
+   id="tspan4183">milieu</tspan>!</tspan><tspan
          sodipodi:role="line"
          style="font-size:51.59302139px;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="392.25803"
          y="999.4198"
-         id="tspan4176">La <tspan
+         id="tspan4176">De <tspan
    style="stroke:#000000;stroke-width:1.67974544;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan4185">nature </tspan>!</tspan></text>
+   id="tspan4185">natuur</tspan>!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.69629097px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none"
@@ -188,22 +188,22 @@
          style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
          y="242.65163"
-         id="tspan4221"> Ça ne nous</tspan><tspan
+         id="tspan3397"> Dat heeft ons</tspan><tspan
          sodipodi:role="line"
          style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
          y="315.75345"
-         id="tspan4217">a posé aucun</tspan><tspan
+         id="tspan3401">nog nooit</tspan><tspan
          sodipodi:role="line"
          style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="982.79468"
+         x="972.51471"
          y="388.85526"
-         id="tspan4222">problème </tspan><tspan
+         id="tspan3403">enig probleem</tspan><tspan
          sodipodi:role="line"
          style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
          y="461.95706"
-         id="tspan4224">jusque-là !</tspan></text>
+         id="tspan3405">opgeleverd!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.69629097px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none"
@@ -216,7 +216,7 @@
          style="font-size:58.48145294px;stroke:#000000;stroke-width:2.24178886;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1019.0294"
          y="1101.3928"
-         id="tspan4221-2"> PROFONDÉMENT ! </tspan></text>
+         id="tspan4221-2"> ZO DIEP MOGELIJK! </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -228,22 +228,17 @@
          style="font-size:45px"
          x="393.99847"
          y="1068.822"
-         id="tspan4176-6">On ne peut pas continuer</tspan><tspan
+         id="tspan4176-6">We kunnen niet zomaar</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="401.90863"
+         x="393.99847"
          y="1125.072"
-         id="tspan4196">à polluer tout comme </tspan><tspan
+         id="tspan3427">blijven vervuilen zonder</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="401.90863"
+         x="393.99847"
          y="1181.322"
-         id="tspan4200">ça sans subir de lourdes </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="401.90863"
-         y="1237.572"
-         id="tspan4208">conséquences !!! </tspan></text>
+         id="tspan4208">grote consequenties!!!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -255,22 +250,22 @@
          style="font-size:45px"
          x="969.58252"
          y="880.27979"
-         id="tspan4176-6-1">Nous sommes des</tspan><tspan
+         id="tspan4176-6-1">Wij zijn heksen van</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="969.58252"
          y="936.52979"
-         id="tspan4320">sorcières de Chaosah !</tspan><tspan
+         id="tspan4328">Chaosah! En onze</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="969.58252"
          y="992.77979"
-         id="tspan4324">Et nos problèmes, on</tspan><tspan
+         id="tspan3423">problemen</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="969.58252"
          y="1049.0298"
-         id="tspan4328">les enterre</tspan></text>
+         id="tspan3425">begraven we</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -282,12 +277,12 @@
          style="font-size:45px"
          x="979.88812"
          y="1192.52"
-         id="tspan4328-0">On ne discute pas</tspan><tspan
+         id="tspan3409">Er wordt niet</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="979.88812"
          y="1248.77"
-         id="tspan4366">les traditions !</tspan></text>
+         id="tspan3413">getornd aan tradities!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -299,17 +294,12 @@
          style="font-size:45px"
          x="338.31299"
          y="1473.3076"
-         id="tspan4328-9">Oh, regardez</tspan><tspan
+         id="tspan4406">O, kijk wat</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="338.31299"
          y="1529.5576"
-         id="tspan4404">ce que je viens de</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="338.31299"
-         y="1585.8076"
-         id="tspan4406">retrouver !</tspan></text>
+         id="tspan3453">ik hier vind!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -321,7 +311,7 @@
          style="font-size:45px"
          x="405.02945"
          y="1688.4513"
-         id="tspan4406-9">J'y crois pas !</tspan></text>
+         id="tspan4406-9">Niet te geloven!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -333,12 +323,12 @@
          style="font-size:45px"
          x="400.75806"
          y="2158.8105"
-         id="tspan4455">Comment elle a pu</tspan><tspan
+         id="tspan4190">Hoe is die</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="400.75806"
          y="2215.0605"
-         id="tspan4190">atterrir ici ?</tspan></text>
+         id="tspan3446">hier terechtgekomen?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -350,16 +340,16 @@
          style="font-size:45px"
          x="509.49463"
          y="2483.7622"
-         id="tspan4455-2">Elle a sans doute besoin</tspan><tspan
+         id="tspan4482">Hij moet wel een</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="509.49463"
          y="2540.0122"
-         id="tspan4482">d'un petit accordage, mais</tspan><tspan
+         id="tspan4486">beetje gestemd worden,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="509.49463"
          y="2596.2622"
-         id="tspan4486">elle sonne toujours.</tspan></text>
+         id="tspan3461">maar hij klinkt nog goed.</tspan></text>
   </g>
 </svg>

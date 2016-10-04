@@ -627,30 +627,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="954"
+     inkscape:window-height="995"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34782609"
-     inkscape:cx="739.82003"
-     inkscape:cy="688.96379"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:zoom="0.24595019"
+     inkscape:cx="1355.5357"
+     inkscape:cy="400.15893"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep19_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -692,7 +692,7 @@
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-2">verre</tspan></text>
+         id="tspan4293-1-6-3-5-0-2">glas</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4-7"
@@ -705,7 +705,7 @@
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-2-1">métal</tspan></text>
+         id="tspan4293-1-6-3-5-0-2-1">metaal</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 731.19538,2419.4979 c -89.21078,-50.1718 -139.44339,-130.7825 -77.43954,-121.4372 -35.84959,-33.2547 -25.42678,-50.0508 5.16377,-51.0538 -28.28352,-13.2508 -56.88455,-59.3739 -44.16607,-81.0973 -21.00141,0.5115 -33.1111,-8.9675 -37.28736,-27.3613 -17.66664,21.3808 -31.28071,23.9363 -34.76785,-20.5488 -8.99188,32.3149 -24.23807,37.4552 -61.53471,-6.7666 -3.94666,11.8102 9.23264,40.423 -100.71635,12.2837 31.33948,25.336 70.27107,79.5741 -12.05981,97.087 27.94208,12.404 33.12113,29.6833 -13.47894,48.62 72.27385,-4.8011 36.0617,36.8217 27.46805,46.8266 38.39162,-17.3893 58.86574,-13.9181 55.08607,16.0671 71.63458,-41.6749 67.25838,-9.99 64.41708,3.1665 29.56523,-32.6454 59.86698,-30.4489 59.28128,-3.3556 55.55012,-56.2588 14.49494,32.6909 170.03438,87.5697 z"
@@ -787,12 +787,12 @@
          style="font-size:38.06726837px"
          x="837.63568"
          y="1046.2795"
-         id="tspan4486">Haha, j'ai oublié</tspan><tspan
+         id="tspan4213">Haha, ik ben de</tspan><tspan
          sodipodi:role="line"
          style="font-size:38.06726837px"
          x="837.63568"
          y="1093.8636"
-         id="tspan4213">les paroles !</tspan></text>
+         id="tspan3507">tekst vergeten!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.15127087px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -804,17 +804,17 @@
          style="font-size:38.06726837px"
          x="937.64069"
          y="1164.4091"
-         id="tspan4486-6">Sans doute mon</tspan><tspan
+         id="tspan4173">Mijn liedboek</tspan><tspan
          sodipodi:role="line"
          style="font-size:38.06726837px"
-         x="944.33221"
+         x="937.64069"
          y="1211.9932"
-         id="tspan4171">livre de chants est </tspan><tspan
+         id="tspan3514">moet hier ook</tspan><tspan
          sodipodi:role="line"
          style="font-size:38.06726837px"
          x="937.64069"
          y="1259.5773"
-         id="tspan4173">par là...</tspan></text>
+         id="tspan3516">ergens liggen...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.39256477px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -826,12 +826,12 @@
          style="font-size:42.72212219px"
          x="1226.9191"
          y="642.47266"
-         id="tspan4171-3">C'était comment</tspan><tspan
+         id="tspan4205">Daar gaat-ie!</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.72212219px"
          x="1226.9191"
          y="695.87531"
-         id="tspan4205">déjà ? Cha~Cha</tspan><tspan
+         id="tspan3537">Trala~lalala... Cha~Cha</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.72212219px"
          x="1226.9191"
@@ -853,22 +853,22 @@
          style="font-size:45px"
          x="408.2085"
          y="1772.9498"
-         id="tspan4212-2">...donc, nous</tspan><tspan
+         id="tspan4366">... dus we zijn het</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="408.2085"
          y="1829.1998"
-         id="tspan4366">sommes toutes d'accord.</tspan><tspan
+         id="tspan3524">allemaal eens. Nieuwe</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="408.2085"
          y="1885.4498"
-         id="tspan4364">Mise à jour des règles</tspan><tspan
+         id="tspan3528">versie van de regels van</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="408.2085"
          y="1941.6998"
-         id="tspan4259">de Chaosah :</tspan></text>
+         id="tspan4259">Chaosah:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -880,7 +880,7 @@
          style="font-size:45px"
          x="387.9476"
          y="2009.0479"
-         id="tspan4284">désormais, on</tspan></text>
+         id="tspan4284">van nu af aan gaan we alles</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
@@ -892,7 +892,7 @@
          style="font-size:45px;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="381.44696"
          y="2067.9089"
-         id="tspan4284-0">trie,</tspan></text>
+         id="tspan4284-0">sorteren,</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
@@ -904,7 +904,7 @@
          style="font-size:45px;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="412.08777"
          y="2136.5938"
-         id="tspan4284-0-3">broie</tspan></text>
+         id="tspan4284-0-3">vermalen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
@@ -916,7 +916,7 @@
          style="font-size:45px;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="476.02319"
          y="2199.7627"
-         id="tspan4284-0-3-0">et recycle tout !</tspan></text>
+         id="tspan4284-0-3-0">en hergebruiken!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.18528271px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none"
@@ -929,7 +929,7 @@
          style="font-size:53.19481277px;stroke:#000000;stroke-width:2.24600315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="535.41351"
          y="2170.8594"
-         id="tspan4284-0-3-0-2">TOUT !!!</tspan></text>
+         id="tspan4284-0-3-0-2">ALLES!!!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5534-8)"
@@ -942,7 +942,7 @@
          id="tspan4215"
          x="2028.7821"
          y="2443.6147"
-         style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- FIN -</tspan></text>
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- EINDE -</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522-4)"
@@ -954,7 +954,7 @@
          style="font-size:36.73472214px;fill:#ffffff;stroke:#ffffff"
          x="1240.0964"
          y="3274.6868"
-         id="tspan4252-9">09/2016 - www.peppercarrot.com - Dessin &amp; Scénario : David Revoy</tspan></text>
+         id="tspan4252-9">09-2016 - www.peppercarrot.com - Tekeningen &amp; Verhaal: David Revoy - Vertaling: Willem Sonke &amp; Midgard</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546-3-4);enable-background:accumulate"
@@ -966,7 +966,7 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
          x="1242.8344"
          y="3313.4661"
-         id="tspan4252-9-9-2">Script doctor: Craig Maloney. Relecture et aide aux dialogues: Valvin, Seblediacre et Alex Gryson. Inspiration: &quot;The book of secrets&quot; by Juan José Segura</tspan></text>
+         id="tspan4252-9-9-2">Script doctor: Craig Maloney. Redactie en hulp met de teksten: Valvin, Seblediacre en Alex Gryson. Inspiratie: &quot;The book of secrets&quot; door Juan José Segura</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate"
@@ -978,7 +978,7 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
          x="1242.353"
          y="3350.7795"
-         id="tspan4252-9-9">Basé sur l'univers d'Hereva créé par David Revoy avec les contributions de Craig Maloney. Corrections de Willem Sonke, Moini, Hali, CGand et Alex Gryson.</tspan></text>
+         id="tspan4252-9-9">Gebaseerd op het universum van Hereva gecreëerd door David Revoy avec met bijdragen van Craig Maloney. Verbeteringen door Willem Sonke, Moini, Hali, CGand en Alex Gryson.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5558-7)"
@@ -990,6 +990,6 @@
          x="1240.6473"
          y="3388.5505"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;stroke:#ffffff"
-         id="tspan4169">Licence : Creative Commons Attribution 4.0, Logiciels: Krita 3.0.1, Inkscape 0.91 sur Arch Linux XFCE</tspan></text>
+         id="tspan4169">Licentie: Creative Commons Naamsvermelding 4.0, Software: Krita 3.0.1, Inkscape 0.91 op Arch Linux XFCE</tspan></text>
   </g>
 </svg>

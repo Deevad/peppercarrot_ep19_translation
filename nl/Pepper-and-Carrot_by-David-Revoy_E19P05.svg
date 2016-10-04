@@ -81,14 +81,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-height="995"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900001"
-     inkscape:cx="1265.4032"
-     inkscape:cy="1350.9869"
+     inkscape:cx="1214.3635"
+     inkscape:cy="239.45573"
      inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -97,13 +97,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep19_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -223,12 +223,12 @@
          style="font-size:45px"
          x="434.37378"
          y="212.50937"
-         id="tspan4272">Nous avons toutes</tspan><tspan
+         id="tspan4148">We hebben allemaal</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="434.37378"
          y="268.75937"
-         id="tspan4148">eu nos échecs.</tspan></text>
+         id="tspan3402">wel iets fout gedaan.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -240,12 +240,17 @@
          style="font-size:45px"
          x="566.86279"
          y="369.82779"
-         id="tspan4148-7">Je ne suis plus la</tspan><tspan
+         id="tspan4173">Ik ben niet meer de</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="566.86279"
          y="426.07779"
-         id="tspan4173">Cayenne qui a écrit ça.</tspan></text>
+         id="tspan3406">Cayenne die dat</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="566.86279"
+         y="482.32779"
+         id="tspan3408">geschreven heeft.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -255,19 +260,19 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2047.2949"
+         x="2039.3848"
          y="490.67374"
-         id="tspan4173-5">Ce journal a été </tspan><tspan
+         id="tspan4208">Dat dagboek heb ik</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2039.3848"
          y="546.92371"
-         id="tspan4200">enterré pour une</tspan><tspan
+         id="tspan3415">begraven vanwege een</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2039.3848"
          y="603.17371"
-         id="tspan4208"> raison précise.</tspan></text>
+         id="tspan3417">specifieke reden.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -291,7 +296,7 @@
          style="font-size:45px"
          x="1020.2921"
          y="900.67383"
-         id="tspan4208-1-7">D'accord !</tspan></text>
+         id="tspan4208-1-7">Goed dan!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -303,12 +308,12 @@
          style="font-size:45px"
          x="1187.8596"
          y="1007.8734"
-         id="tspan4208-1-7-9">Mais que dites-vous</tspan><tspan
+         id="tspan4275">Maar wat denk</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1187.8596"
          y="1064.1234"
-         id="tspan4275">de ceci, hein ?</tspan></text>
+         id="tspan3421">je hiervan?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -320,22 +325,22 @@
          style="font-size:45px"
          x="2103.282"
          y="2030.4532"
-         id="tspan4302">C'est simplement un</tspan><tspan
+         id="tspan4302">Dat is gewoon een</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2103.282"
          y="2086.7031"
-         id="tspan4304">égarement de jeunesse...</tspan><tspan
+         id="tspan3423">fout uit mijn jeugd...</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2103.282"
          y="2142.9531"
-         id="tspan4300">Et d'ailleurs, c'est pas</tspan><tspan
+         id="tspan3438">en het is sowieso niet</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2103.282"
          y="2199.2031"
-         id="tspan4328"> de ton âge !</tspan></text>
+         id="tspan4328">geschikt voor jouw leeftijd!</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4314"
@@ -369,7 +374,7 @@
          style="font-size:45px"
          x="553.45013"
          y="3073.6917"
-         id="tspan4328-8-9">Je vois...</tspan></text>
+         id="tspan4328-8-9">Ik zie het...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -381,17 +386,17 @@
          style="font-size:45px"
          x="2045.6868"
          y="3208.1523"
-         id="tspan4402">Vous n'êtes pas</tspan><tspan
+         id="tspan4408">Jullie schamen</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2045.6868"
          y="3264.4023"
-         id="tspan4406">vraiment embarassées par</tspan><tspan
+         id="tspan3451">jullie daar niet echt</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2045.6868"
          y="3320.6523"
-         id="tspan4408">tout ça...</tspan></text>
+         id="tspan3453">voor...</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4"
@@ -414,7 +419,7 @@
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.06008911px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#241c1c;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan4426">par</tspan><tspan
+         id="tspan4426">door</tspan><tspan
          y="3263.7771"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.06008911px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#241c1c;fill-opacity:1"
