@@ -17,6 +17,8 @@ License
 
 * French: David Revoy
 
+* Mexicano: RJ Quiralta
+
 
 ## Artwork & Scenario:
 
