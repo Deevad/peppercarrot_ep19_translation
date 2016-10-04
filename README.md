@@ -17,6 +17,8 @@ License
 
 * French: David Revoy
 
+* Dutch: Midgard & Willem Sonke
+
 
 ## Artwork & Scenario:
 
