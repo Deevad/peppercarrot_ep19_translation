@@ -21,6 +21,8 @@ License
 
 * Mexicano: RJ Quiralta
 
+* Swedish: Mikael Olofsson
+
 
 ## Artwork & Scenario:
 
