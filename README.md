@@ -19,6 +19,8 @@ License
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
+* Japanese: guruguru
+
 * Mexicano: RJ Quiralta
 
 * Swedish: Mikael Olofsson
