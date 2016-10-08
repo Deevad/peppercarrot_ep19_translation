@@ -19,6 +19,8 @@ License
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
+* Lojban: Gleki Arxokuna
+
 * Mexicano: RJ Quiralta
 
 * Swedish: Mikael Olofsson
