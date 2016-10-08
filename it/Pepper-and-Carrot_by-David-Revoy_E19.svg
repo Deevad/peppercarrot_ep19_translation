@@ -196,7 +196,7 @@
      inkscape:window-height="959"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.72830473"
+     inkscape:zoom="2.0599569"
      inkscape:cx="607.23186"
      inkscape:cy="230.49046"
      inkscape:window-x="0"
@@ -211,11 +211,11 @@
     <image
        sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep19_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E19.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="1100"
        height="765"
-       width="1100" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -253,7 +253,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.29271966,0.0444502,-0.19493314,0.37716453,1000.4724,-629.49551)"><tspan
+       transform="matrix(0.29294157,0.04296345,-0.19301571,0.37814937,994.20618,-630.60749)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
