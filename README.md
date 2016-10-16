@@ -13,6 +13,8 @@ License
 
 ## Translators and correctors:
 
+* Catalan: Juan José Seguara
+
 * Chinese: Ran Zhuang
 
 * English: Alex Gryson
