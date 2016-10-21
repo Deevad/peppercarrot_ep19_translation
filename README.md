@@ -23,6 +23,8 @@ License
 
 * French: David Revoy
 
+* Indonesian: Bonaventura Aditya Perdana
+
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
 * Lojban: Gleki Arxokuna
