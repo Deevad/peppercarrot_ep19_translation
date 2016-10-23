@@ -19,6 +19,8 @@ License
 
 * Czech: Kateřina Fleknová
 
+* Dutch: Willem Sonke
+
 * English: Alex Gryson
 
 * French: David Revoy
