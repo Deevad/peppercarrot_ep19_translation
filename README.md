@@ -13,11 +13,29 @@ License
 
 ## Translators and correctors:
 
+* Catalan: Juan José Seguara
+
+* Chinese: Ran Zhuang
+
+* Czech: Kateřina Fleknová
+
+* Dutch: Willem Sonke
+
 * English: Alex Gryson
 
 * French: David Revoy
 
-* Dutch: Midgard & Willem Sonke
+* Indonesian: Bonaventura Aditya Perdana
+
+* Italian: Carlo Gandolfi, corrections: Antonio Parisi
+
+* Lojban: Gleki Arxokuna
+
+* Japanese: guruguru
+
+* Mexicano: RJ Quiralta
+
+* Swedish: Mikael Olofsson
 
 
 ## Artwork & Scenario:
