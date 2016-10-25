@@ -35,6 +35,8 @@ License
 
 * Mexicano: RJ Quiralta
 
+* Russian: Denis "uncle Night" Prisukhin
+
 * Swedish: Mikael Olofsson
 
 
