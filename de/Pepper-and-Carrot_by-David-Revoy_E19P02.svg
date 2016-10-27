@@ -71,7 +71,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4224276"
-     inkscape:cx="1553.9171"
+     inkscape:cx="1127.3216"
      inkscape:cy="498.45334"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -83,13 +83,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/koyu/Projekte/peppercarrot_ep19_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
+       sodipodi:absref="/home/koyu/peppercarrot_ep19_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -146,7 +146,7 @@
        sodipodi:nodetypes="cscsssssscssssccscccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1386.1897,1850.6766 c 6.9766,-72.813 45.241,-99.124 129.3575,-102.9426 41.7636,-1.8959 193.0253,-8.4703 254.34,4.7033 61.3145,13.1736 113.7996,53.5205 109.1484,106.8749 -4.651,53.3544 -10.1525,94.6821 -77.1145,109.785 -66.962,15.1027 -195.3843,3.9807 -208.7565,4.6084 -26.7438,1.2554 -165.2549,-16.4551 -188.3704,-53.9822 -14.4698,-23.4909 -19.7673,-46.4495 -18.6045,-69.0468 z"
+       d="m 1367.2575,1859.3265 c 7.2444,-78.74 46.9779,-107.1928 134.3237,-111.3222 43.367,-2.0502 200.4359,-9.1598 264.1046,5.0861 63.6684,14.246 118.1685,57.8772 113.3388,115.5747 -4.8296,57.6975 -10.5423,102.3893 -80.0751,118.7216 -69.5328,16.3321 -202.8854,4.3047 -216.771,4.9835 -27.7705,1.3576 -171.5993,-17.7945 -195.6022,-58.3764 -15.0254,-25.4031 -20.5262,-50.2305 -19.3188,-74.6673 z"
        id="path4546-6-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssc" />
@@ -316,24 +316,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1632.8079"
-       y="1821.87"
+       x="1623.3389"
+       y="1831.339"
        id="text4246-3-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1632.8079"
-         y="1821.87"
+         x="1623.3389"
+         y="1831.339"
          id="tspan4259">Manche Ameisen</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1632.8079"
-         y="1878.12"
+         x="1623.3389"
+         y="1887.589"
          id="tspan3858">machen schon</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1632.8079"
-         y="1934.37"
+         x="1623.3389"
+         y="1943.839"
          id="tspan3466">echt komische Sachen</tspan></text>
     <text
        xml:space="preserve"
@@ -407,7 +407,7 @@
          y="2768.3767"
          id="tspan3900">&quot;<tspan
    style="stroke:#000000;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan4217">Ich-Ruininiere-All-Meine-Tränke</tspan>&quot;,</tspan><tspan
+   id="tspan4217">Ich-Ruiniere-All-Meine-Tränke</tspan>&quot;,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="457.55984"

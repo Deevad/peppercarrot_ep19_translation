@@ -43,9 +43,9 @@
      inkscape:window-height="717"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.31941595"
-     inkscape:cx="1205.235"
-     inkscape:cy="452.11448"
+     inkscape:zoom="0.27690551"
+     inkscape:cx="1240.5"
+     inkscape:cy="1029.232"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -57,13 +57,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/koyu/Projekte/peppercarrot_ep19_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P01.png"
+       sodipodi:absref="/home/koyu/peppercarrot_ep19_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -178,7 +178,7 @@
            style="font-size:45px"
            x="1244.2314"
            y="2117.5247"
-           id="tspan3395">nichts, dich beim</tspan><tspan
+           id="tspan3395">nichts, dir beim</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="1252.1416"
@@ -331,5 +331,5 @@
            height="84.529282"
            x="1111.4034"
            y="2053.4795" /></flowRegion><flowPara
-         id="flowPara3386"></flowPara></flowRoot>  </g>
+         id="flowPara3386" /></flowRoot>  </g>
 </svg>
