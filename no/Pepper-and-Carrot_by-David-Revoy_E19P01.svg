@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E19P01.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.90344474"
+     inkscape:cx="1885.4444"
+     inkscape:cy="447.65291"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep19_translation1/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P01.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P01.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 999.95369,1944.6884 c -4.0128,-29.8516 17.18291,-57.9056 171.11701,-57.9056 163.6184,0 172.7244,21.984 176.0859,60.2936 1.3936,15.8826 -44.4148,37.2739 -61.2063,41.2538 -16.7915,3.9798 -107.4329,7.896 -135.4188,4.7122 -27.9856,-3.1839 -117.9277,-10.1473 -134.7192,-24.4749 -16.79161,-14.3274 -13.9928,-20.6952 -15.85861,-23.8791 z"
+       id="path3365"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1369.1202,2063.5881 c -8.8916,54.0667 -44.7035,103.6952 -112.4086,106.181 -62.3188,23.2222 -143.1204,28.1696 -205.907,15.6362 -32.5753,-8.9095 -59.4891,-50.6403 -62.72434,-122.4275 5.02938,-71.0311 22.17794,-84.015 56.45544,-87.7451 44.6219,-15.0719 115.5096,-9.1315 160.8799,3.6909 38.958,7.3208 114.9939,-11.7253 149.6925,17.1898 11.5958,15.2781 11.6236,45.9023 14.0121,67.4747 z"
+       id="path3365-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 1017.5796,2279.7271 c 5.8015,-61.6305 21.378,-123.1561 87.8966,-131.7404 81.5502,-18.3183 237.3951,-23.5801 318.7754,-6.0281 53.2163,14.5189 70.3412,19.2979 111.6861,60.9725 27.417,30.565 13.8083,168.1493 -30.5991,198.1276 -46.2286,43.8283 -170.1019,53.5381 -232.7753,52.3401 -90.2079,1.8038 -169.2663,-6.1775 -213.8153,-42.6819 -41.6557,-35.0232 -46.8422,-85.3666 -41.1684,-130.9898 z"
+       id="path3065"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="display:inline;fill:#ffffff;stroke:none"
+       d="m 1639.5841,2318.3167 c -21.9558,36.2988 -64.6442,61.9501 -96.7367,35.7869 -19.4449,-15.8524 -29.1134,-28.291 -29.1134,-28.291 l -6.3679,30.9322 20.7854,19.5483 c 0,0 65.508,31.9103 111.4326,-57.9764 z"
+       id="path3063-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1913.7084,2318.7633 c 22.0218,-14.8351 108.7391,-27.5791 195.348,-26.0229 86.6089,1.5563 169.6176,9.704 220.3618,46.2927 74.763,53.907 40.7099,177.1599 1.9878,197.9002 -28.0636,15.0314 -112.0563,28.518 -192.5037,30.0346 -80.4472,1.5168 -157.3491,-8.9363 -194.921,-22.5197 -32.4257,-11.723 -79.6687,-43.6247 -83.5261,-120.7802 -1.5743,-31.4904 9.21,-75.2341 53.2532,-104.9047 z"
+       id="path4040"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssss" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2091.5868,2309.6031 c -12.6779,-33.6245 -30.9699,-60.7293 -65.977,-55.676 52.3023,-18.546 92.9308,35.3617 103.6224,53.2726 10.6914,17.9109 -37.6454,2.4034 -37.6454,2.4034 z"
+       id="path5010"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 584.207,2726.3612 c -1.24453,-26.3558 12.50199,-45.2414 64.76922,-62.4534 52.26745,-17.2119 126.44515,-9.0026 145.90786,-8.4347 91.33347,2.665 121.9366,11.5648 140.60345,30.9284 18.66695,19.3634 23.43591,15.1087 22.77621,48.6465 -0.59063,30.0255 -5.86691,44.1361 -28.26716,50.5905 -22.4004,6.4545 -194.48622,13.8487 -220.98023,13.5611 -25.93965,-0.2816 -58.96646,-3.5096 -84.68422,-14.0823 -24.2782,-9.9808 -38.88069,-32.4002 -40.12513,-58.7561 z"
+       id="path3373"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssssz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 653.17027,2853.9321 c 9.91133,-71.4433 85.33335,-96.2842 300.62391,-100.5518 56.30772,-1.1161 151.16032,7.4337 195.37852,24.0922 44.2183,16.6585 69.3963,73.9993 62.7888,126.3501 -13.2151,104.7015 -151.2975,87.2502 -189.2911,88.4821 -37.99357,1.2319 -299.48532,4.6116 -336.9684,-42.9057 -35.94549,-45.5681 -34.1836,-73.2947 -32.53173,-95.4669 z"
+       id="path4546"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 795.64914,2974.8307 c 32.61893,-42.4872 284.82956,-16.4806 346.54766,-12.7045 65.6712,4.0179 84.4107,5.8599 83.9992,43.8149 -0.7572,69.8408 -16.7318,90.6987 -46.9333,100.9251 -30.2013,10.2263 -129.7906,8.9077 -159.992,8.9077 -30.20128,0 -156.49621,2.3461 -200.81621,-22.5822 -23.8632,-13.4221 -55.42443,-75.874 -22.80535,-118.361 z"
+       id="path3330"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 929.99953,3158.9683 c 39.78505,-10.9584 53.20162,-17.1208 58.43434,-65.1641 5.23266,-48.0433 23.16173,-44.6696 23.16173,-44.6696 l 14.7504,30.3838 c 0,0 -18.3423,101.2684 -96.34647,79.4499 z"
+       id="path3072"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1876.0726,3236.2507 c 31.0142,2.4737 71.4057,-9.8402 46.3319,-47.0836 45.1266,29.8423 87.8749,35.4321 132.8789,2.7618 -6.5788,32.9816 67.0064,35.5262 92.2201,13.7022 -7.6931,34.3702 27.6819,35.696 57.242,36.7873 -62.5315,42.0191 -29.6955,55.3824 -5.0561,71.2088 -61.4534,-11.7093 -46.5907,12.0157 -53.9307,25.4317 -52.7178,-30.3972 -91.056,-23.183 -121.3443,5.0863 -15.841,-15.3736 -20.8133,-47.148 -79.2107,1.6954 21.4742,-42.1659 -6.6736,-37.7401 -52.2454,-16.9543 10.4847,-9.6926 54.6143,-35.5882 -16.8857,-33.2951 11.1651,-3.4133 20.1243,-7.1292 26.4384,-11.2081 6.3142,-4.0789 -34.2873,-14.9684 -33.7021,-19.8332 0.5854,-4.8647 42.3578,-3.7047 36.3362,-9.4759 -6.0216,-5.771 -15.5661,-12.0254 -29.0725,-18.8233 z"
+       id="path4584"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccsssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1929.0839,3276.1051 c -26.7744,0.1934 -96.6935,-12.0611 -103.8888,-13.0148 6.0705,-5.4371 10.1298,-10.8932 13.4021,-15.1162 -13.7156,-0.9263 -59.5001,-2.596 -79.7676,1.5975 50.7453,-11.4228 73.8083,-12.6417 95.8809,-9.8645 -2.9601,5.998 -5.8701,9.4267 -7.3188,12.6033 18.7307,6.708 117.9634,8.8349 106.078,1.4065 z"
+       id="path5066"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1177.4561"
+       y="1950.6425"
+       id="text4246-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1185.3662"
+         y="1950.6425"
+         id="tspan4183-8">Jeg stikker inn. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2137.0017"
+       y="2381.4485"
+       id="text4246"
+       sodipodi:linespacing="125%"><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="1174.7997"
+         y="2049.2102"
+         id="text4246-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           style="font-size:45px"
+           x="1174.7997"
+           y="2049.2102"
+           id="tspan4251">Du skal f<tspan
+   style="font-size:40px"
+   id="tspan4211">å</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-size:45px"
+           x="1182.7098"
+           y="2105.4602"
+           id="tspan4258">grave i fred... </tspan></text>
+<tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1182.7098"
+         y="2105.4602"
+         id="tspan4252" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1277.0656"
+       y="2199.4302"
+       id="text4246-3-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1277.0656"
+         y="2199.4302"
+         id="tspan3968">N<tspan
+   style="font-size:40px"
+   id="tspan4219">å</tspan>r du har gravd</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1277.0656"
+         y="2255.6802"
+         id="tspan4269">ned alle disse mislykkede</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1277.0656"
+         y="2311.9302"
+         id="tspan4271">trylledrikkene for meg</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1277.0656"
+         y="2368.1802"
+         id="tspan4273">kan du g<tspan
+   style="font-size:40px"
+   id="tspan4215">å</tspan> inn <tspan
+   style="font-size:40px"
+   id="tspan4213">å</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1284.9757"
+         y="2424.4302"
+         id="tspan4279">hvile deg. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2111.6384"
+       y="2365.1826"
+       id="text4246-3-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2111.6384"
+         y="2365.1826"
+         id="tspan3981">Sjansen for at du</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2111.6384"
+         y="2421.4326"
+         id="tspan4286">lykkes imorgen er vel</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2111.6384"
+         y="2477.6826"
+         id="tspan4290">heller liten, men man</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2111.6384"
+         y="2533.9326"
+         id="tspan4296">vet jo aldri!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="775.45044"
+       y="2707.4324"
+       id="text4246-3-7-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="775.45044"
+         y="2707.4324"
+         id="tspan4300">Jada!  Jeg</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="775.45044"
+         y="2763.6824"
+         id="tspan4304">skal skynde meg.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="942.81274"
+       y="2838.0046"
+       id="text4246-3-7-6-7-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="942.81274"
+         y="2838.0046"
+         id="tspan4770">Hva er forresten</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="942.81274"
+         y="2894.2546"
+         id="tspan4311">greia med <tspan
+   style="font-size:40px"
+   id="tspan4221">å</tspan> grave</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="950.7229"
+         y="2950.5046"
+         id="tspan4313">ned alt mulig hele tiden? </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1005.5135"
+       y="3020.583"
+       id="text4246-3-7-6-7-0-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1005.5135"
+         y="3020.583"
+         id="tspan4325">Hadde det ikke vært</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1013.4236"
+         y="3076.833"
+         id="tspan4329">enklere om vi... </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2037.533"
+       y="3281.2891"
+       id="text4246-3-7-6-7-0-9-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2037.533"
+         y="3281.2891"
+         id="tspan4464-5">Om vi <tspan
+   style="stroke:#000000;stroke-width:2.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4493">HVA</tspan>?</tspan></text>
+  </g>
+</svg>
