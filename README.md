@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 19: Pollution
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -22,6 +22,8 @@ License
 * Dutch: Willem Sonke
 
 * English: Alex Gryson
+
+* Finnish: Kari Lehto
 
 * French: David Revoy
 
