@@ -86,7 +86,7 @@
      showgrid="false"
      inkscape:zoom="0.26450001"
      inkscape:cx="1306.131"
-     inkscape:cy="1481.5344"
+     inkscape:cy="1049.9604"
      inkscape:window-x="956"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -97,7 +97,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep19_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
+       sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep19_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        y="0"
        x="0"
@@ -151,13 +151,13 @@
        sodipodi:nodetypes="cccccccc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 887.32211,888.38152 c -0.79042,-16.47336 24.71857,-62.04816 134.05069,-56.80467 109.332,5.24349 143.0715,24.00836 145.4591,53.30904 3.7771,46.35286 -54.1343,57.58421 -136.8885,59.38885 -85.31067,1.86043 -137.9557,-14.22681 -142.62129,-55.89322 z"
+       d="m 898.66426,907.28511 c -0.79042,-16.47336 24.71857,-62.04816 134.05074,-56.80467 109.332,5.24349 143.0715,24.00836 145.4591,53.30904 3.7771,46.35286 -54.1343,57.58421 -136.8885,59.38885 -85.31072,1.86043 -137.95575,-14.22681 -142.62134,-55.89322 z"
        id="path3280"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1193.4265,928.17596 c 84.6089,1.53084 172.5976,10.8463 195.0339,30.0277 45.4587,38.86388 24.5652,107.73924 -24.101,129.33404 -48.6661,21.5949 -206.072,28.6536 -273.527,20.699 -61.6031,-7.2646 -118.41072,-28.2038 -123.61261,-90.4942 13.91593,-109.19987 162.58921,-90.54479 226.20671,-89.56654 z"
+       d="m 1191.3086,950.64031 c 78.1602,1.34316 159.4427,9.51653 180.169,26.34626 41.994,34.09913 22.6929,94.53023 -22.2641,113.47753 -44.9569,18.9473 -190.3658,25.1406 -252.6796,18.1612 -56.9079,-6.3739 -109.38582,-24.7459 -114.19124,-79.3994 12.8553,-95.81184 150.19714,-79.4439 208.96594,-78.58559 z"
        id="path4040-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssscc" />
@@ -262,7 +262,7 @@
          style="font-size:45px"
          x="2039.3848"
          y="546.92371"
-         id="tspan3421">por la que el diario</tspan><tspan
+         id="tspan3421">por la que ése diario</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2039.3848"
@@ -283,14 +283,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1020.2921"
-       y="900.67383"
+       x="1031.6343"
+       y="919.57739"
        id="text4246-3-3-2-3-5-6-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1020.2921"
-         y="900.67383"
+         x="1031.6343"
+         y="919.57739"
          id="tspan4208-1-7">¡ Muy bien !</tspan></text>
     <text
        xml:space="preserve"
@@ -386,7 +386,7 @@
          style="font-size:45px"
          x="2045.6868"
          y="3264.4023"
-         id="tspan3410">se averguenzen de</tspan><tspan
+         id="tspan3410">se avergüenzan de</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2045.6868"
