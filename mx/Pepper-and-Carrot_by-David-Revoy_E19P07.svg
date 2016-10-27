@@ -633,24 +633,24 @@
      showgrid="false"
      inkscape:zoom="0.69565218"
      inkscape:cx="1353.5436"
-     inkscape:cy="390.85419"
+     inkscape:cy="335.13776"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep19_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
+       sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep19_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -708,7 +708,7 @@
          id="tspan4293-1-6-3-5-0-2-1">metales</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 731.19538,2419.4979 c -99.77574,-50.1718 -155.95724,-130.7825 -86.61047,-121.4372 -40.09514,-33.2547 -28.43799,-50.0508 5.7753,-51.0538 -31.63305,-13.2508 -63.62121,-59.3739 -49.39652,-81.0973 -23.48854,0.5115 -37.03235,-8.9675 -41.70319,-27.3613 -19.75884,21.3808 -34.98519,23.9363 -38.8853,-20.5488 -10.05676,32.3149 -27.10851,37.4552 -68.82208,-6.7666 -4.41405,11.8102 10.32604,40.423 -112.64387,12.2837 35.05091,25.336 78.59305,79.5741 -13.48802,97.087 31.25117,12.404 37.04356,29.6833 -15.07521,48.62 80.83302,-4.8011 40.33238,36.8217 30.72101,46.8266 42.93822,-17.3893 65.83703,-13.9181 61.60974,16.0671 80.11805,-41.6749 75.22359,-9.99 72.0458,3.1665 33.06655,-32.6454 66.95684,-30.4489 66.30178,-3.3556 62.12875,-56.2588 16.21153,32.6909 190.17103,87.5697 z"
+       d="m 751.32038,2412.3104 c -109.65909,-49.002 -171.40568,-127.7332 -95.18973,-118.6058 -44.06679,-32.4793 -31.25493,-48.8838 6.34739,-49.8634 -34.76649,-12.9418 -69.92326,-57.9895 -54.28953,-79.2064 -25.81522,0.4995 -40.70062,-8.7585 -45.83413,-26.7234 -21.71607,20.8823 -38.45067,23.3782 -42.7371,-20.0697 -11.05295,31.5615 -29.79377,36.5819 -75.6393,-6.6088 -4.85129,11.5348 11.34889,39.4805 -123.80188,11.9973 38.5229,24.7453 86.37813,77.7187 -14.82408,94.8233 34.34677,12.1148 40.71293,28.9912 -16.5685,47.4864 88.83998,-4.6892 44.32753,35.9632 33.7641,45.7348 47.19149,-16.9839 72.35856,-13.5936 67.71253,15.6925 88.05419,-40.7032 82.67491,-9.7571 79.18234,3.0926 36.34198,-31.8842 73.58929,-29.7389 72.86935,-3.2773 68.28295,-54.9471 17.81737,31.9287 209.00854,85.5279 z"
        id="path3549-3-78"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc" />
@@ -720,7 +720,7 @@
        sodipodi:nodetypes="cssssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 266.47299,2124.067 c -0.96418,-27.6519 16.39129,-46.4553 26.03325,-55.3039 9.64206,-8.8486 70.38652,-28.758 92.56311,-28.758 22.17648,0 91.06675,17.7063 123.97361,35.1641 24.93624,13.2291 56.24498,24.097 31.12576,51.9547 -24.02507,26.6442 -75.07099,55.5653 -89.53398,58.8834 -14.46301,3.3183 -55.92352,5.5305 -69.42234,4.4244 -13.4987,-1.1061 -117.63196,-21.0155 -114.73941,-66.3647 z"
+       d="m 253.54149,2124.067 c -1.06212,-27.6519 18.05644,-46.4553 28.6779,-55.3039 10.62157,-8.8486 77.53689,-28.758 101.96634,-28.758 24.42933,0 100.31796,17.7063 136.56775,35.1641 27.46944,13.2291 61.95874,24.097 34.28774,51.9547 -26.46572,26.6442 -82.69725,55.5653 -98.62949,58.8834 -15.93227,3.3183 -61.60464,5.5305 -76.47476,4.4244 -14.87,-1.1061 -129.58187,-21.0155 -126.39548,-66.3647 z"
        id="path3357-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssc" />
@@ -826,7 +826,7 @@
          style="font-size:42.72212219px"
          x="1226.9191"
          y="642.47266"
-         id="tspan3515">Oh no, ¡¿ que no es</tspan><tspan
+         id="tspan3515">Oh no, ¡¿ Que no es</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.72212219px"
          x="1226.9191"
@@ -904,7 +904,7 @@
          style="font-size:45px;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="412.08777"
          y="2136.5938"
-         id="tspan4284-0-3">deshacemoss,</tspan></text>
+         id="tspan4284-0-3">desbaratamos,</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
@@ -929,7 +929,7 @@
          style="font-size:53.19481277px;stroke:#000000;stroke-width:2.24600315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="512.74884"
          y="2169.4917"
-         id="tspan4284-0-3-0-2">¡¡¡ TODO !!!</tspan></text>
+         id="tspan4284-0-3-0-2">¡¡¡ TO-DO !!!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5534-8)"
@@ -1001,5 +1001,5 @@
            height="83.350212"
            x="796.90936"
            y="1144.799" /></flowRegion><flowPara
-         id="flowPara3525"></flowPara></flowRoot>  </g>
+         id="flowPara3525" /></flowRoot>  </g>
 </svg>
