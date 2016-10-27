@@ -41,6 +41,8 @@ License
 
 * Swedish: Mikael Olofsson
 
+* German: Julian Eric Ain
+
 
 ## Artwork & Scenario:
 
