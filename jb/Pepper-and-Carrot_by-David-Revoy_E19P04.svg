@@ -170,24 +170,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="858"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.79006524"
-     inkscape:cx="1283.2592"
-     inkscape:cy="485.91244"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.39503262"
+     inkscape:cx="1045.3042"
+     inkscape:cy="1265.5949"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\pc\peppercarrot_ep19_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep19_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
        width="2481"
        height="3503"
@@ -307,7 +307,7 @@
          style="font-size:45px"
          x="384.60165"
          y="1380.8265"
-         id="tspan3759">noi se kerfa</tspan><tspan
+         id="tspan3759">poi se kerfa</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="384.60165"
@@ -410,7 +410,7 @@
          style="font-size:45px"
          x="755.97571"
          y="2326.3804"
-         id="tspan3803">i mi manci lo ka cilre</tspan><tspan
+         id="tspan3803">i mi manci lo nu cilre</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="755.97571"
@@ -425,6 +425,6 @@
          style="font-size:45px"
          x="755.97571"
          y="2495.1304"
-         id="tspan9280">be lo no'a lo dertu</tspan></text>
+         id="tspan9280">be lo nei lo dertu</tspan></text>
   </g>
 </svg>

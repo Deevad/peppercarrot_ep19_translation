@@ -80,15 +80,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="858"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34350663"
      inkscape:cx="1646.9766"
-     inkscape:cy="364.7204"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cy="946.9508"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -97,7 +97,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\pc\peppercarrot_ep19_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep19_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        y="0"
        x="0"
@@ -353,7 +353,7 @@
          style="font-size:45px"
          x="2100.282"
          y="2138.9531"
-         id="tspan3721">i ta'i ro de na mapti</tspan><tspan
+         id="tspan3721">i va'o ro de na mapti</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2100.282"
@@ -390,7 +390,7 @@
          style="font-size:45px"
          x="553.45013"
          y="3073.6917"
-         id="tspan4328-8-9">ua bu'o</tspan></text>
+         id="tspan4328-8-9">ki'a nai</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -402,12 +402,12 @@
          style="font-size:45px"
          x="2023.0325"
          y="3199.3425"
-         id="tspan9326">do na ka'e</tspan><tspan
+         id="tspan9328">i ia nai do</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2023.0325"
          y="3255.5925"
-         id="tspan9328">co'a burna</tspan><tspan
+         id="tspan3397">ja'a burna</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2023.0325"
