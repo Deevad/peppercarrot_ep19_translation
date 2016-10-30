@@ -66,15 +66,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="858"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.29870142"
-     inkscape:cx="1527.0073"
-     inkscape:cy="798.12784"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="847.39888"
+     inkscape:cy="1109.4755"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -83,7 +83,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\pc\peppercarrot_ep19_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep19_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
        y="0"
        x="0"
@@ -254,12 +254,12 @@
          style="font-size:45px"
          x="1447.9285"
          y="495.34341"
-         id="tspan4227">le foldi ca lo ca citsi</tspan><tspan
+         id="tspan4227">le foldi ca lo cabna</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1447.9285"
          y="551.59338"
-         id="tspan4231">cu cizra</tspan></text>
+         id="tspan4231">citsi cu cizra</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -271,7 +271,7 @@
          style="font-size:45px"
          x="1637.3901"
          y="619.19336"
-         id="tspan3849">i so'i drata spati</tspan><tspan
+         id="tspan3849">i so'i lo drata spati</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1637.3901"
@@ -358,12 +358,12 @@
          style="font-size:45px"
          x="2053.186"
          y="2139.4331"
-         id="tspan4267">lo nu lo du'e mabla xukmi</tspan><tspan
+         id="tspan4267">lo nu nabmi fa tu'a du'e</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2053.186"
          y="2195.6831"
-         id="tspan4269">cu jai nabmi i ju'o cu'i</tspan><tspan
+         id="tspan4269">mabla xukmi i ju'o cu'i</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2053.186"
@@ -407,7 +407,7 @@
          style="font-size:45px"
          x="547.53906"
          y="2867.8635"
-         id="tspan5403">lo pastu pe la rarna</tspan><tspan
+         id="tspan5403">lo pastu pe la rarna ku'o</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="547.53906"
@@ -466,7 +466,7 @@
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="2002.6411"
          y="3025.5608"
-         id="tspan5439">le munje i mi mi ba'e na</tspan><tspan
+         id="tspan5439">le munje i mi ba'e na</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="2002.6411"
