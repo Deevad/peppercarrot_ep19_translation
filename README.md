@@ -31,7 +31,7 @@ License
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
-* Lojban: Gleki Arxokuna
+* Lojban: Gleki Arxokuna, mezohe
 
 * Japanese: guruguru
 
