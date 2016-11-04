@@ -27,17 +27,21 @@ License
 
 * French: David Revoy
 
+* German: Julian Eric Ain
+
 * Indonesian: Bonaventura Aditya Perdana
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
-* Lojban: Gleki Arxokuna, mezohe
-
 * Japanese: guruguru
+
+* Lojban: Gleki Arxokuna, mezohe
 
 * Mexicano: RJ Quiralta
 
 * Norwegian: Thomas Nordstrøm
+
+* Polish: Sölve Svartskogen
 
 * Portuguese: Alexandre Esteves Almeida
 
@@ -46,8 +50,6 @@ License
 * Slovak: talime
 
 * Swedish: Mikael Olofsson
-
-* German: Julian Eric Ain
 
 
 ## Artwork & Scenario:
@@ -73,7 +75,7 @@ This folder contains all ready to use built pages in all available language :
 
 * Long strip version in a long single picture (lowres/single-page, Jpeg 92% quality)
 
-* Krita original sources files (zip folder, zipped kra files) 
+* Krita original sources files (zip folder, zipped kra files)
 
 
 ## Info:
