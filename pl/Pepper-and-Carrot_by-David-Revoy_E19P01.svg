@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E19P01.svg">
@@ -39,13 +39,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1028"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.45172237"
-     inkscape:cx="541.46802"
-     inkscape:cy="1791.9625"
+     inkscape:cx="1404.9748"
+     inkscape:cy="902.03535"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -57,13 +57,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/forge/Trashcan/Tests/pct/peppercarrot_ep19_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P01.png"
+       sodipodi:absref="/media/WinMedia/PepperCarrotNew/peppercarrot_ep19_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -257,7 +257,7 @@
          style="font-size:45px"
          x="932.02167"
          y="2826.9932"
-         id="tspan4263">Poza tym,</tspan><tspan
+         id="tspan4263">Poza tym</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="932.02167"
@@ -296,6 +296,6 @@
          style="font-size:40px"
          x="2028.5259"
          y="3277.0728"
-         id="tspan4464-5">Gdyby CO?!</tspan></text>
+         id="tspan4464-5">Gdyby co?!</tspan></text>
   </g>
 </svg>

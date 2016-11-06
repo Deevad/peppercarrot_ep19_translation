@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E19P02.svg">
@@ -66,13 +66,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1028"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4224276"
-     inkscape:cx="151.11118"
-     inkscape:cy="325.03213"
+     inkscape:cx="1210.5514"
+     inkscape:cy="958.29782"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -83,13 +83,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/forge/Trashcan/Tests/pct/peppercarrot_ep19_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
+       sodipodi:absref="/media/WinMedia/PepperCarrotNew/peppercarrot_ep19_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -343,35 +343,35 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2050.4885"
-       y="2081.3647"
+       x="2048.4885"
+       y="2073.3647"
        id="text4246-3-2-9-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2050.4885"
-         y="2081.3647"
+         x="2048.4885"
+         y="2073.3647"
          id="tspan3888">pomyślałam sobie,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2050.4885"
-         y="2137.6147"
+         x="2048.4885"
+         y="2129.6147"
          id="tspan4301">że możemy mieć problem</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2050.4885"
-         y="2193.8647"
-         id="tspan4303">ze skażeniem, i może</tspan><tspan
+         x="2048.4885"
+         y="2185.8647"
+         id="tspan4214">ze skażeniem i dlatego</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2050.4885"
-         y="2250.1147"
-         id="tspan4305">przydałoby się</tspan><tspan
+         x="2048.4885"
+         y="2242.1147"
+         id="tspan4216">byłoby dobrze</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2050.4885"
-         y="2306.3647"
-         id="tspan4307">nieco posprzątać.</tspan></text>
+         x="2048.4885"
+         y="2298.3647"
+         id="tspan4220">nieco tutaj posprzątać.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
@@ -387,23 +387,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="546.73621"
+       x="544.87732"
        y="2813.6709"
        id="text4246-3-2-9-6-6-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="546.73621"
+         x="544.87732"
          y="2813.6709"
-         id="tspan4378-5">Jak widać, kostium</tspan><tspan
+         id="tspan4378-5">Jak widać, szata</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="546.73621"
+         x="544.87732"
          y="2869.9209"
-         id="tspan4326">Hippiah uderzył ci</tspan><tspan
+         id="tspan4326">Hippiah uderzyła ci</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="546.73621"
+         x="544.87732"
          y="2926.1709"
          id="tspan4328">do głowy!</tspan></text>
     <text
@@ -432,28 +432,28 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
        x="2007.339"
-       y="2941.9268"
+       y="2927.9268"
        id="text4246-3-2-9-6-6-0-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="2007.339"
-         y="2941.9268"
+         y="2927.9268"
          id="tspan4378-7-6">Ta tradycja jest</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="2007.339"
-         y="2998.1768"
+         y="2984.1768"
          id="tspan4363">kultywowana od zarania</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="2007.339"
-         y="3054.4268"
+         y="3040.4268"
          id="tspan4365">dziejów i mam w nosie,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="2007.339"
-         y="3110.6768"
+         y="3096.6768"
          id="tspan4367">co na to Matka Natura.</tspan></text>
     <text
        xml:space="preserve"
@@ -466,11 +466,11 @@
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="2083.4753"
          y="3219.5076"
-         id="tspan4375">Więc siedź cicho</tspan><tspan
+         id="tspan4375">Więc bądź cicho</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="2083.4753"
          y="3275.7576"
-         id="tspan4379">i KOP!</tspan></text>
+         id="tspan4379">i kop!</tspan></text>
   </g>
 </svg>

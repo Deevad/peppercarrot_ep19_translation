@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E19P05.svg">
@@ -80,13 +80,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1028"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34350663"
-     inkscape:cx="1158.0481"
-     inkscape:cy="2285.4986"
+     inkscape:zoom="0.48579173"
+     inkscape:cx="1667.7563"
+     inkscape:cy="1773.2561"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -97,13 +97,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/forge/Trashcan/Tests/pct/peppercarrot_ep19_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
+       sodipodi:absref="/media/WinMedia/PepperCarrotNew/peppercarrot_ep19_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -232,20 +232,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="568.12012"
-       y="373.73465"
+       x="568.17505"
+       y="372.2338"
        id="text4246-3-3-2-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="568.12012"
-         y="373.73465"
-         id="tspan4202">Nie jestem już kobietą,</tspan><tspan
+         x="568.17505"
+         y="372.2338"
+         id="tspan4202">Nie jestem już tą samą</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="568.12012"
-         y="429.98465"
-         id="tspan4204">która to napisała.</tspan></text>
+         x="568.17505"
+         y="428.4838"
+         id="tspan4204">kobietą, która to napisała.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -335,30 +335,30 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2109.9397"
-       y="2016.9749"
+       x="2109.6101"
+       y="2021.0728"
        id="text4246-3-3-2-3-5-6-2-0-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2109.9397"
-         y="2016.9749"
+         x="2109.6101"
+         y="2021.0728"
          id="tspan3721">To zwyczajny błąd</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2109.9397"
-         y="2073.2246"
+         x="2109.6101"
+         y="2077.3228"
          id="tspan4226">mojej młodości,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2109.9397"
-         y="2129.4746"
+         x="2109.6101"
+         y="2133.5728"
          id="tspan4228">na dodatek jesteś</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2109.9397"
-         y="2185.7246"
-         id="tspan4230">na niego za młoda!</tspan></text>
+         x="2109.6101"
+         y="2189.8228"
+         id="tspan4230">na to za młoda!</tspan></text>
     <use
        x="0"
        y="0"
