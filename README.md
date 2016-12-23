@@ -29,6 +29,8 @@ License
 
 * German: Julian Eric Ain
 
+* Hungarian: Halász Gábor "Hali"
+
 * Indonesian: Bonaventura Aditya Perdana
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
