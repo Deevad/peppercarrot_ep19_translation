@@ -631,13 +631,13 @@
      inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.45172235"
-     inkscape:cx="983.09808"
-     inkscape:cy="653.9014"
+     inkscape:zoom="0.31941594"
+     inkscape:cx="1329.2041"
+     inkscape:cy="1190.4061"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -646,11 +646,11 @@
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep19_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E19P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -723,7 +723,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 210.6446,2066.6402 c -1.21265,-27.6519 20.61558,-46.4553 32.74243,-55.3039 12.12702,-8.8486 88.5263,-28.758 116.41814,-28.758 27.89178,0 149.58857,12.8028 170.2043,32.7123 20.61571,19.9093 33.01325,38.3864 19.67383,71.5688 -13.33966,33.1823 -89.2251,38.403 -107.41542,41.7211 -18.19037,3.3183 -70.33596,5.5305 -87.31363,4.4244 -16.97754,-1.1061 -147.94766,-21.0155 -144.30965,-66.3647 z"
+       d="m 194.99778,2066.6402 c -1.3228,-27.6519 22.48824,-46.4553 35.71665,-55.3039 13.2286,-8.8486 96.56775,-28.758 126.99319,-28.758 30.42538,0 163.17672,12.8028 185.66511,32.7123 22.48838,19.9093 36.01207,38.3864 21.46094,71.5688 -14.55139,33.1823 -97.33002,38.403 -117.17269,41.7211 -19.84273,3.3183 -76.72505,5.5305 -95.24492,4.4244 -18.51973,-1.1061 -161.38675,-21.0155 -157.41828,-66.3647 z"
        id="path3357-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssc" />

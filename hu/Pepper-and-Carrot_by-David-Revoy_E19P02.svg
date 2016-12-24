@@ -70,13 +70,13 @@
      inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.29870142"
-     inkscape:cx="1334.1652"
-     inkscape:cy="829.24669"
+     inkscape:zoom="0.4224276"
+     inkscape:cx="1610.4693"
+     inkscape:cy="818.75753"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -170,7 +170,7 @@
        sodipodi:nodetypes="ccscc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 90.88691,2770.5002 c 30.29821,-13.5555 44.65891,-22.9506 0.529255,-42.4543 9.060805,-0.1482 59.625055,-2.652 11.280875,-40.7374 15.93875,4.9163 41.42669,17.9702 12.73605,-45.2525 17.25094,10.0795 41.17942,42.3089 20.18973,-17.4076 22.73031,20.1827 52.67687,7.4227 46.54658,-3.1797 18.29345,12.8696 54.2198,11.8055 51.14239,0.8849 13.44988,11.9136 49.88598,15.4063 47.02664,-4.5616 11.17569,13.7256 45.85954,12.3116 42.45933,0.6497 29.30112,13.8824 71.66176,22.439 87.67127,3.0839 13.67017,18.3174 77.25789,12.786 130.58931,0.2839 0.83539,12.9297 60.19352,15.1994 108.56996,-5.8488 0.73219,19.6421 18.18931,26.2976 39.52146,11.8426 7.6178,8.0625 5.58463,12.7523 35.5209,-6.3346 -1.42916,13.1255 3.89937,25.2346 24.75693,12.6693 3.63344,8.1197 -9.66275,29.1648 43.05578,-1.5838 0.34851,11.4781 -12.02632,34.0177 33.36811,6.3346 -36.82487,68.1961 -16.41513,60.8971 8.61108,47.5088 -19.48583,40.2294 -44.61799,90.1269 4.90295,88.2926 -38.77535,9.2937 -38.09749,23.1129 -32.88908,44.7321 -48.59808,-43.5346 -54.30816,-10.4498 -75.34748,-4.7509 -22.21102,-7.2424 -42.67302,-33.7825 -68.88891,3.1673 -40.16143,-15.2054 -48.12387,-1.2586 -61.35441,7.9183 -70.1651,-29.1801 -68.50769,-5.5262 -100.10451,-6.3347 -18.68122,-36.0953 -60.83806,-8.8703 -91.49335,-12.6689 -38.74999,-29.5985 -96.41166,-3.6531 -126.57766,7.7564 14.74372,-18.4892 -21.56396,-34.9948 -56.09284,5.1003 17.14634,-33.8803 -10.98569,-45.3031 -63.5071,-1.6688 24.68117,-40.1455 -9.45312,-33.7473 -47.67708,-8.0207 37.40986,-39.0112 -2.12154,-42.3552 -24.54618,-39.4204 z"
+       d="m 90.88691,2780.9628 c 30.87317,-14.4732 45.50639,-24.5044 0.539298,-45.3285 9.232752,-0.1582 60.756542,-2.8316 11.494952,-43.4954 16.24121,5.2491 42.21283,19.1868 12.97773,-48.3162 17.57831,10.7619 41.96087,45.1733 20.57287,-18.5861 23.16165,21.5491 53.6765,7.9252 47.42988,-3.395 18.64059,13.7409 55.24871,12.6048 52.1129,0.9448 13.70511,12.7202 50.83265,16.4493 47.91905,-4.8704 11.38776,14.6548 46.7298,13.1451 43.26506,0.6937 29.85716,14.8222 73.02166,23.9581 89.33498,3.2927 13.92958,19.5575 78.72398,13.6516 133.06746,0.3031 0.85124,13.805 61.33579,16.2284 110.63025,-6.2448 0.74609,20.9719 18.53448,28.078 40.27145,12.6444 7.76236,8.6083 5.6906,13.6156 36.19496,-6.7635 -1.45628,14.0141 3.97337,26.943 25.22674,13.527 3.70239,8.6695 -9.84612,31.1394 43.87283,-1.691 0.35512,12.2552 -12.25454,36.3208 34.00133,6.7635 -37.52369,72.8131 -16.72664,65.0199 8.77449,50.7252 -19.85561,42.953 -45.46469,96.2287 4.99599,94.2702 -39.51118,9.9229 -38.82046,24.6777 -33.51321,47.7605 -49.52031,-46.4819 -55.33874,-11.1572 -76.77732,-5.0725 -22.63251,-7.7327 -43.48281,-36.0696 -70.19619,3.3817 -40.92356,-16.2348 -49.0371,-1.3438 -62.51871,8.4544 -71.4966,-31.1556 -69.80774,-5.9003 -102.00416,-6.7636 -19.03573,-38.539 -61.99256,-9.4708 -93.22959,-13.5266 -39.48533,-31.6023 -98.24123,-3.9004 -128.97968,8.2816 15.02351,-19.741 -21.97317,-37.3641 -57.15729,5.4456 17.47172,-36.1741 -11.19416,-48.3702 -64.71225,-1.7818 25.14953,-42.8634 -9.63251,-36.0321 -48.58184,-8.5637 38.11978,-41.6524 -2.1618,-45.2228 -25.01198,-42.0893 z"
        id="path3557"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
@@ -218,30 +218,30 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1194.6492"
-       y="229.16325"
+       y="237.16325"
        id="text4246"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1194.6492"
-         y="229.16325"
+         y="237.16325"
          id="tspan4252">Őőő...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1213.9131"
-       y="297.91959"
+       y="295.91959"
        id="text4246-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1213.9131"
-         y="297.91959"
+         y="295.91959"
          id="tspan4222">Hááát.. nem vagyok</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1213.9131"
-         y="354.16959"
+         y="352.16959"
          id="tspan4226">benne szakértő...</tspan></text>
     <text
        xml:space="preserve"
@@ -281,7 +281,7 @@
          style="font-size:45px"
          x="1637.3901"
          y="675.44336"
-         id="tspan4244">hanem az összes ház körüli</tspan><tspan
+         id="tspan4244">hanem a többi ház körüli</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1637.3901"
@@ -382,31 +382,31 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
-       x="461.67166"
-       y="2668.5779"
+       x="471.67166"
+       y="2680.5779"
        id="text4246-3-2-9-6-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
-         x="461.67166"
-         y="2668.5779"
+         x="471.67166"
+         y="2680.5779"
          id="tspan3892">Ide figyelj, kedves</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
-         x="461.67166"
-         y="2724.8279"
+         x="471.67166"
+         y="2736.8279"
          id="tspan3900">„<tspan
    style="stroke:#000000;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan4217">Elrontom-Az-Összes-Bájitalomat</tspan>”</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
-         x="461.67166"
-         y="2781.0779"
+         x="471.67166"
+         y="2793.0779"
          id="tspan4339">kisasszony!</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
-         x="461.67166"
-         y="2837.3279"
+         x="471.67166"
+         y="2849.3279"
          id="tspan4378" /></text>
     <text
        xml:space="preserve"
@@ -468,7 +468,7 @@
          style="font-size:45px;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="2002.6411"
          y="3027.5608"
-         id="tspan4372">és fütyülünk arra, hogy az</tspan><tspan
+         id="tspan4372">és fütyülök arra, hogy az</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke:#000000;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="2002.6411"
