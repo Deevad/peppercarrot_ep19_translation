@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E19P01.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.31941595"
+     inkscape:cx="1410.2665"
+     inkscape:cy="1062.3516"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep19_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P01.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P01.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 939.26711,1944.6884 c -6.64898,-29.8516 45.438,-65.8653 234.01219,-57.9056 188.5749,7.9598 225.6715,21.984 231.2413,60.2936 2.3091,15.8826 -47.9163,40.5945 -75.7388,44.5744 -27.8225,3.9798 -143.1637,4.5754 -189.5347,1.3916 -46.3705,-3.1839 -145.88062,-10.1473 -173.7032,-24.4749 -27.82273,-14.3274 -23.18527,-20.6952 -26.27679,-23.8791 z"
+       id="path3365"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1401.8489,2076.8706 c -11.8751,54.0667 -65.6162,78.2371 -110.2124,92.8985 -83.2291,23.2222 -170.4468,11.5665 -254.3006,-0.9669 -43.5055,-8.9095 -88.31938,-47.3197 -83.77055,-99.1832 4.39618,-46.4894 46.57275,-76.7852 87.22445,-81.1038 59.5941,-15.0719 121.7453,-22.414 182.339,-9.5916 52.0298,7.3208 107.7521,9.3053 154.0933,38.2204 15.4867,15.2781 21.4369,38.1542 24.6268,59.7266 z"
+       id="path3365-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 983.26757,2303.0025 c 6.1856,-73.3527 54.50423,-113.0449 125.42673,-123.262 86.9493,-21.8024 167.9935,-31.7912 254.7616,-10.9008 56.7395,17.2804 103.371,19.2422 147.4532,68.8434 29.2322,36.3785 39.7574,174.0482 -7.59,209.7284 -49.2892,52.1644 -181.3637,63.7211 -248.1864,62.2952 -96.1802,2.1469 -180.4727,-7.3525 -227.9711,-50.8 -44.41359,-41.6847 -49.94347,-101.6034 -43.89403,-155.9042 z"
+       id="path3065"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="display:inline;fill:#ffffff;stroke:none"
+       d="m 1639.5841,2318.3167 c -21.9558,36.2988 -64.6442,61.9501 -96.7367,35.7869 -19.4449,-15.8524 -29.1134,-28.291 -29.1134,-28.291 l -6.3679,30.9322 20.7854,19.5483 c 0,0 65.508,31.9103 111.4326,-57.9764 z"
+       id="path3063-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1913.7084,2318.7633 c 22.0218,-14.8351 108.7391,-27.5791 195.348,-26.0229 86.6089,1.5563 169.6176,9.704 220.3618,46.2927 74.763,53.907 40.7099,177.1599 1.9878,197.9002 -28.0636,15.0314 -112.0563,28.518 -192.5037,30.0346 -80.4472,1.5168 -157.3491,-8.9363 -194.921,-22.5197 -32.4257,-11.723 -79.6687,-43.6247 -83.5261,-120.7802 -1.5743,-31.4904 9.21,-75.2341 53.2532,-104.9047 z"
+       id="path4040"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssss" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2091.5868,2309.6031 c -12.6779,-33.6245 -30.9699,-60.7293 -65.977,-55.676 52.3023,-18.546 92.9308,35.3617 103.6224,53.2726 10.6914,17.9109 -37.6454,2.4034 -37.6454,2.4034 z"
+       id="path5010"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 582.55215,2726.3612 c -1.2237,-26.3558 12.2928,-45.2414 63.68542,-62.4534 51.39285,-17.2119 124.32932,-9.0026 143.46635,-8.4347 89.80517,2.665 119.89621,11.5648 138.25071,30.9284 18.35459,19.3634 23.04376,15.1087 22.39509,48.6465 -0.58075,30.0255 -5.76874,44.1361 -27.79416,50.5905 -22.02557,6.4545 -191.23184,13.8487 -217.28252,13.5611 -25.5056,-0.2816 -57.97976,-3.5096 -83.26717,-14.0823 -23.87196,-9.9808 -38.23009,-32.4002 -39.45372,-58.7561 z"
+       id="path3373"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssssz" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 721.88452,2853.9321 c 7.64172,-71.4433 65.79272,-96.2842 231.78354,-100.5518 43.41372,-1.1161 116.54584,7.4337 150.63844,24.0922 34.0927,16.6585 53.5051,73.9993 48.4107,126.3501 -10.1889,104.7015 -116.6516,87.2502 -145.945,88.4821 -29.29336,1.2319 -230.90568,4.6116 -259.80545,-42.9057 -27.71427,-45.5681 -26.35584,-73.2947 -25.08223,-95.4669 z"
+       id="path4546"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 847.67224,2985.8994 c 32.61893,-42.4872 210.03646,-38.8602 269.06646,-20.4526 59.0299,18.4073 84.5489,23.4094 83.7401,61.358 -0.7572,35.5277 -19.7934,68.7281 -49.9949,78.9545 -30.2013,10.2263 -101.0118,10.0146 -131.2132,10.0146 -30.20128,0 -126.6106,-6.509 -151.00686,-21.4754 -23.33742,-14.3168 -53.21068,-65.9121 -20.5916,-108.3991 z"
+       id="path3330"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 929.99953,3158.9683 c 39.78505,-10.9584 53.20162,-17.1208 58.43434,-65.1641 5.23266,-48.0433 23.16173,-44.6696 23.16173,-44.6696 l 14.7504,30.3838 c 0,0 -18.3423,101.2684 -96.34647,79.4499 z"
+       id="path3072"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none"
+       d="m 1871.2712,3239.5273 c 33.9046,2.1524 78.0603,-8.5621 50.6498,-40.9681 49.332,25.9662 96.064,30.83 145.262,2.4031 -7.1917,28.6978 73.251,30.9119 100.8144,11.9225 -8.41,29.906 30.2616,31.0596 62.5765,32.0091 -68.3589,36.5615 -32.463,48.1891 -5.5273,61.9598 -67.1804,-10.1884 -50.9325,10.4551 -58.9567,22.1285 -57.6307,-26.449 -99.5416,-20.1718 -132.6526,4.4257 -17.3173,-13.3768 -22.7529,-41.0242 -86.5924,1.4752 23.4753,-36.6892 -7.2955,-32.8382 -57.1143,-14.7522 11.4618,-8.4337 59.704,-30.9658 -18.4594,-28.9705 12.2057,-2.97 21.9997,-6.2033 28.9024,-9.7524 6.9026,-3.5491 -37.4827,-13.0242 -36.8429,-17.2571 0.64,-4.2329 46.3052,-3.2235 39.7225,-8.2451 -6.5827,-5.0215 -17.0168,-10.4635 -31.782,-16.3785 z"
+       id="path4584"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccsssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1929.0839,3276.1051 c -26.7744,0.1934 -96.6935,-12.0611 -103.8888,-13.0148 6.0705,-5.4371 10.1298,-10.8932 13.4021,-15.1162 -13.7156,-0.9263 -59.5001,-2.596 -79.7676,1.5975 50.7453,-11.4228 73.8083,-12.6417 95.8809,-9.8645 -2.9601,5.998 -5.8701,9.4267 -7.3188,12.6033 18.7307,6.708 117.9634,8.8349 106.078,1.4065 z"
+       id="path5066"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       x="1177.4561"
+       y="1950.6425"
+       id="text4246-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1177.4561"
+         y="1950.6425"
+         id="tspan4183-8">Tao vào nhà trước.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       x="2137.0017"
+       y="2370.491"
+       id="text4246"
+       sodipodi:linespacing="125%"><text
+   xml:space="preserve"
+   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+   x="1174.7997"
+   y="2038.2527"
+   id="text4246-3"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     style="font-size:45px"
+     x="1174.7997"
+     y="2038.2527"
+     id="tspan3953">Coi mày đào lên</tspan><tspan
+     sodipodi:role="line"
+     style="font-size:45px"
+     x="1174.7997"
+     y="2096.1812"
+     id="tspan4029">đất chẳng có</tspan><tspan
+     sodipodi:role="line"
+     style="font-size:45px"
+     x="1181.9628"
+     y="2154.1099"
+     id="tspan4031">lợi ích gì cả... </tspan></text>
+ <tspan
+   sodipodi:role="line"
+   style="font-size:45px"
+   x="1176.7098"
+   y="2154.1099"
+   id="tspan4252" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       x="1268.4561"
+       y="2249.5215"
+       id="text4246-3-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1268.4561"
+         y="2249.5215"
+         id="tspan3968">Trồng hết chai thuốc</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1268.4561"
+         y="2307.45"
+         id="tspan4014">thất bại này cho tao</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1268.4561"
+         y="2365.3787"
+         id="tspan4018">và vào nhà càng sớm</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1268.4561"
+         y="2423.3071"
+         id="tspan4020">càng tốt cho mày</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1268.4561"
+         y="2481.2356"
+         id="tspan4022">được nghỉ ngơi.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       x="2111.6384"
+       y="2365.1826"
+       id="text4246-3-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2111.6384"
+         y="2365.1826"
+         id="tspan3983">Ngày mai nhìn</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2111.6384"
+         y="2423.1111"
+         id="tspan3956">mày thành công chỉ</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2111.6384"
+         y="2481.0398"
+         id="tspan3960">là ước mơ những</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2111.6384"
+         y="2538.9683"
+         id="tspan3969">ai mà biết!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       x="775.45044"
+       y="2707.4324"
+       id="text4246-3-7-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="775.45044"
+         y="2707.4324"
+         id="tspan3987">Được, con</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="782.61353"
+         y="2765.3608"
+         id="tspan3977">sẽ làm lẹ hơn! </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       x="942.81274"
+       y="2838.0046"
+       id="text4246-3-7-6-7-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="942.81274"
+         y="2838.0046"
+         id="tspan4774">Còn tại sao</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="942.81274"
+         y="2895.9331"
+         id="tspan4778">lần nào cũng phả</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="949.97583"
+         y="2953.8618"
+         id="tspan4770"><tspan
+   style="stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   id="tspan4772">trồng mỗi thứ</tspan>? </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       x="1026.5442"
+       y="3025.0105"
+       id="text4246-3-7-6-7-0-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1026.5442"
+         y="3025.0105"
+         id="tspan4782">Đáng lẽ tốt</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1026.5442"
+         y="3082.939"
+         id="tspan3981">hơn nếu...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       x="2037.533"
+       y="3281.2891"
+       id="text4246-3-7-6-7-0-9-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2037.533"
+         y="3281.2891"
+         id="tspan4464-5">Nếu <tspan
+   style="stroke:#000000;stroke-width:2.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   id="tspan4493">CÁI GÌ</tspan>?</tspan></text>
+  </g>
+</svg>
