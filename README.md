@@ -13,7 +13,7 @@ License
 
 ## Translators and correctors:
 
-* Catalan: Juan José Seguara
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
