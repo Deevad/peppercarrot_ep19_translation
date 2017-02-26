@@ -627,16 +627,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1024"
-     inkscape:window-height="717"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.39160353"
-     inkscape:cx="1118.2843"
-     inkscape:cy="321.48224"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:cx="1629.0049"
+     inkscape:cy="832.20282"
+     inkscape:window-x="385"
+     inkscape:window-y="2"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -700,7 +700,7 @@
        sodipodi:nodetypes="csssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 709.12018,1197.6816 c 4.63291,-75.6565 48.78258,-82.0274 200.268,-85.8612 160.87772,-4.0715 244.59002,8.3859 231.32212,90.8743 -3.2638,20.2922 -4.5302,38.4758 -47.6459,58.0442 -40.6787,18.4621 -133.52112,20.4566 -200.24338,19.1896 -58.78469,-1.1164 -103.47264,-6.212 -131.60803,-19.4482 -24.66006,-11.6012 -45.64468,-9.8911 -52.09281,-62.7987 z"
+       d="m 686.13775,1200.2352 c 4.76954,-75.6565 50.22119,-82.0274 206.17395,-85.8612 165.622,-4.0715 251.803,8.3859 238.1439,90.8743 -3.3601,20.2922 -4.6638,38.4758 -49.051,58.0442 -41.8783,18.4621 -137.45872,20.4566 -206.14863,19.1896 -60.51826,-1.1164 -106.52407,-6.212 -135.48918,-19.4482 -25.38729,-11.6012 -46.99075,-9.8911 -53.62904,-62.7987 z"
        id="path3365"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -729,7 +729,7 @@
        sodipodi:nodetypes="cssssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 302.39818,2125.5045 c -0.76339,-27.6519 12.97774,-46.4553 20.61173,-55.3039 7.63406,-8.8486 55.72825,-28.758 73.28648,-28.758 17.55815,0 72.10176,17.7063 98.15564,35.1641 19.74317,13.2291 44.53175,24.097 24.6437,51.9547 -19.02176,26.6442 -59.43717,55.5653 -70.88819,58.8834 -11.45103,3.3183 -44.27723,5.5305 -54.96487,4.4244 -10.68755,-1.1061 -93.13466,-21.0155 -90.84449,-66.3647 z"
+       d="m 287.08563,2125.5045 c -0.91129,-27.6519 15.49204,-46.4553 24.60503,-55.3039 9.11308,-8.8486 66.525,-28.758 87.48495,-28.758 20.95985,0 86.0707,17.7063 117.17224,35.1641 23.5682,13.2291 53.15929,24.097 29.41815,51.9547 -22.70702,26.6442 -70.95248,55.5653 -84.62202,58.8834 -13.66954,3.3183 -52.85547,5.5305 -65.61371,4.4244 -12.75815,-1.1061 -111.17851,-21.0155 -108.44464,-66.3647 z"
        id="path3357-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssc" />
@@ -761,17 +761,17 @@
          style="font-size:42.72212219px"
          x="1231.3203"
          y="645.97186"
-         id="tspan4205">Wie war das gleich</tspan><tspan
+         id="tspan4205">Wie ging das gleich</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.72212219px"
          x="1231.3203"
          y="699.37451"
-         id="tspan3621">nochmal? Cha~Cha</tspan><tspan
+         id="tspan3621">noch mal? Cha~Cha</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.72212219px"
          x="1231.3203"
          y="752.77716"
-         id="tspan4173-5">Cha, Chaooosa!</tspan><tspan
+         id="tspan4173-5">Cha, Chaooosah!</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.72212219px"
          x="1231.3203"
@@ -797,25 +797,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.15127087px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="936.52765"
-       y="1170.4004"
+       x="912.52765"
+       y="1158.4004"
        id="text4246-70-2-2-2-7-6-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:38.06726837px"
-         x="936.52765"
-         y="1170.4004"
-         id="tspan4304">Vielleicht ist hier</tspan><tspan
+         x="919.21918"
+         y="1158.4004"
+         id="tspan3512">Vielleicht ist mein </tspan><tspan
          sodipodi:role="line"
          style="font-size:38.06726837px"
-         x="936.52765"
-         y="1217.9845"
-         id="tspan3510">ja noch mein</tspan><tspan
+         x="919.21918"
+         y="1205.9845"
+         id="tspan3516">Liederbuch ja auch </tspan><tspan
          sodipodi:role="line"
          style="font-size:38.06726837px"
-         x="936.52765"
-         y="1265.5686"
-         id="tspan3512">Liederbuch...</tspan></text>
+         x="912.52765"
+         y="1253.5686"
+         id="tspan3518">noch irgendwo hier …</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -827,22 +827,22 @@
          style="font-size:45px"
          x="416.11865"
          y="1772.9498"
-         id="tspan4366">...also, wir sind uns </tspan><tspan
+         id="tspan4366">… also, wir sind uns </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="408.2085"
+         x="416.11865"
          y="1829.1998"
-         id="tspan3600">alle einig.</tspan><tspan
+         id="tspan3604">alle einig. </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="408.2085"
          y="1885.4498"
-         id="tspan4259">Aktualisierung der</tspan><tspan
+         id="tspan3522">Neuerung bei  den</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="408.2085"
          y="1941.6998"
-         id="tspan3604">Regeln von Chaosah:</tspan></text>
+         id="tspan3530">Regeln von Chaosah:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -854,7 +854,7 @@
          style="font-size:45px"
          x="387.9476"
          y="2009.0479"
-         id="tspan4284">Von nun an,</tspan></text>
+         id="tspan4284">Von nun an</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -870,15 +870,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="412.08777"
+       x="416.08777"
        y="2136.5938"
        id="text4246-3-3-6-9-7-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="412.08777"
+         x="416.08777"
          y="2136.5938"
-         id="tspan4284-0-3">zedrücken</tspan></text>
+         id="tspan4284-0-3">zerkleinern</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
