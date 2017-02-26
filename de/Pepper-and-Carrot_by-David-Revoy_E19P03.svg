@@ -53,16 +53,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1024"
-     inkscape:window-height="717"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4558424"
      inkscape:cx="1644.2153"
-     inkscape:cy="656.63291"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:cy="2762.6239"
+     inkscape:window-x="372"
+     inkscape:window-y="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -70,13 +70,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/koyu/Projekte/peppercarrot_ep19_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P03.png"
+       sodipodi:absref="/home/koyu/peppercarrot_ep19_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -174,17 +174,12 @@
          style="font-size:45px;fill:#ffffff"
          x="2147.2212"
          y="949.11047"
-         id="tspan4178">seit Beginn</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;fill:#ffffff"
-         x="2155.1313"
-         y="1005.3605"
-         id="tspan3827">der Zeit </tspan><tspan
+         id="tspan4378-7-6-4-5">seit Anbeginn</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;fill:#ffffff"
          x="2147.2212"
-         y="1061.6106"
-         id="tspan4378-7-6-4-5" /></text>
+         y="1005.3605"
+         id="tspan3370">der Zeit</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
