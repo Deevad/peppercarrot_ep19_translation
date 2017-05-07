@@ -21,7 +21,7 @@ License
 
 * Czech: Kateřina Fleknová
 
-* Dutch: Willem Sonke
+* Dutch: Willem Sonke, corrections: Midgard
 
 * English: Alex Gryson
 
