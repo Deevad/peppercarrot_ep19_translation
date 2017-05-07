@@ -85,12 +85,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.529"
-     inkscape:cx="1200.1283"
-     inkscape:cy="2860.1631"
+     inkscape:cx="1400.7465"
+     inkscape:cy="901.2842"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -99,11 +99,11 @@
     <image
        sodipodi:absref="/home/ruben/git/peppercarrot/ep19/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -330,7 +330,7 @@
          style="font-size:45px;line-height:1.25"
          x="2090.0496"
          y="2065.6899"
-         id="tspan3423">fout uit mijn jeugd ... en</tspan><tspan
+         id="tspan3423">fout uit mijn jeugd … en</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2090.0496"
@@ -362,7 +362,7 @@
          style="font-size:45px;line-height:1.25"
          x="444.74265"
          y="3004.217"
-         id="tspan4328-8">Mm ...</tspan></text>
+         id="tspan4328-8">Mm …</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -373,7 +373,7 @@
          style="font-size:45px;line-height:1.25"
          x="549.45013"
          y="3073.6917"
-         id="tspan4328-8-9">Ik zie het ...</tspan></text>
+         id="tspan4328-8-9">Ik zie het …</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -389,7 +389,7 @@
          style="font-size:45px;line-height:1.25"
          x="1994.647"
          y="3334.2358"
-         id="tspan3453">je nergens voor ...</tspan></text>
+         id="tspan3453">je nergens voor …</tspan></text>
     <text
        id="text4178-6-5-9-0-7-0-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.64099995;fill:#241c1c;fill-opacity:1;stroke:none;filter:url(#filter4436)"
