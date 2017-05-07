@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E19P04.svg">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -171,12 +171,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="995"
+     inkscape:window-height="1013"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.529"
-     inkscape:cx="1253.7782"
-     inkscape:cy="786.64073"
+     inkscape:zoom="0.37405949"
+     inkscape:cx="1270.8614"
+     inkscape:cy="2100.608"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -187,7 +187,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/willem/Git/peppercarrot_ep19_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
+       sodipodi:absref="/home/ruben/git/peppercarrot/ep19/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P04.png"
        y="0"
        x="0"
@@ -207,7 +207,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4212-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.3241539px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.481;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.481;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(2794.2686,1707.8752)"><flowRegion
          id="flowRegion4214-5"><rect
            id="rect4216-3"
@@ -215,24 +215,26 @@
            height="247.52747"
            x="-275.14545"
            y="1061.6674" /></flowRegion><flowPara
-         id="flowPara4204">Diary label</flowPara><flowPara
-         id="flowPara4206">on</flowPara><flowPara
-         id="flowPara4211">book</flowPara></flowRoot>    <text
-       sodipodi:linespacing="125%"
+         id="flowPara4204"
+         style="font-size:25.3241539px;line-height:1.25">Diary label</flowPara><flowPara
+         id="flowPara4206"
+         style="font-size:25.3241539px;line-height:1.25">on</flowPara><flowPara
+         id="flowPara4211"
+         style="font-size:25.3241539px;line-height:1.25">book</flowPara></flowRoot>    <text
        id="text4178-6-5-9-0-7-0-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.66399997;fill:#241c1c;fill-opacity:1;stroke:none;filter:url(#filter4459)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.66399997;fill:#241c1c;fill-opacity:1;stroke:none;filter:url(#filter4459)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
        transform="matrix(0.42157235,0.04704631,-0.09010505,0.43154644,877.14489,1331.3562)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#241c1c;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#241c1c;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4229">Cayennes</tspan><tspan
          y="3180.6853"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#241c1c;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#241c1c;fill-opacity:1"
          sodipodi:role="line"
          id="tspan3407">dagboek</tspan></text>
   </g>
@@ -283,101 +285,96 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="384.60165"
        y="1336.5765"
-       id="text4246"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="384.60165"
          y="1336.5765"
          id="tspan4252">‘O, schone blonde</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="384.60165"
          y="1392.8265"
-         id="tspan3431">krijger, met je gulden</tspan><tspan
+         id="tspan3431">krijger, met uw gulden</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="384.60165"
          y="1449.0765"
          id="tspan3433">haar!’</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1503.4895"
        y="1314.1467"
-       id="text4246-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-3"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="1503.4895"
          y="1314.1467"
-         id="tspan4179">‘... Jij die rondwaart</tspan><tspan
+         id="tspan4179">‘... Gij die rondwaart</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="1503.4895"
          y="1370.3967"
          id="tspan3439">in mijn chaos!’</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="467.9234"
        y="2037.5844"
-       id="text4246-3-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-3-3"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="467.9234"
          y="2037.5844"
-         id="tspan4212">‘... Je bent de entropie</tspan><tspan
+         id="tspan4212">‘... Gij zijt de entropie</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="467.9234"
-         y="2093.8342"
+         y="2093.8345"
          id="tspan3447">van mijn noorderlicht.’</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="752.19501"
        y="2320.1611"
-       id="text4246-3-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-3-2"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="752.19501"
          y="2320.1611"
          id="tspan4179-1">Het is ongelofelijk</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="752.19501"
          y="2376.4111"
          id="tspan3409">wat je kunt leren van</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="752.19501"
          y="2432.6611"
          id="tspan3411">heksen die al hun</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="752.19501"
          y="2488.9111"
-         id="tspan4274">fouten verbergen!</tspan></text>
+         id="tspan4274">fouten begraven!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="536.12238"
        y="2180.2598"
-       id="text4246-3-3-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-3-3-2"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="544.03253"
          y="2180.2598"
          id="tspan4212-0">Mooie poëzie hoor, </tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="536.12238"
          y="2236.5098"
          id="tspan4272">juffrouw Cayenne!</tspan></text>

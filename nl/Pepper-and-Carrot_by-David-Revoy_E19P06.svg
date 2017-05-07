@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E19P06.svg">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,12 +40,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="995"
+     inkscape:window-height="1013"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900001"
-     inkscape:cx="1443.3934"
-     inkscape:cy="661.96777"
+     inkscape:cx="1027.5144"
+     inkscape:cy="1720.5689"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/willem/Git/peppercarrot_ep19_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
+       sodipodi:absref="/home/ruben/git/peppercarrot/ep19/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E19P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -82,7 +82,7 @@
        sodipodi:nodetypes="csccssscc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 184.78359,1441.622 c 28.76714,-43.2352 188.28719,-36.6228 237.90442,-25.487 54.14829,12.1527 70.81969,29.3724 73.24103,67.1125 0.7479,11.6572 -3.63201,64.5196 -30.26711,74.9261 -26.63499,10.4064 -102.90793,15.6095 -129.54303,15.6095 -26.63498,0 -111.65984,-6.6236 -133.17527,-21.8534 -20.58162,-14.5689 -46.92731,-67.0726 -18.16004,-110.3077 z"
+       d="m 185.07965,1438.611 c 29.4387,-44.2203 192.6827,-37.4572 243.45823,-26.0677 55.41237,12.4296 72.47296,30.0416 74.95082,68.6416 0.76536,11.9227 -3.7168,65.9895 -30.97369,76.6331 -27.25677,10.6435 -105.31028,15.9652 -132.56717,15.9652 -27.25676,0 -114.2665,-6.7745 -136.28421,-22.3513 -21.06209,-14.9009 -48.02281,-68.6008 -18.58398,-112.8209 z"
        id="path3330"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -100,7 +100,7 @@
        sodipodi:nodetypes="ccsc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 190.19127,2103.0688 c 36.43477,-24.941 351.86794,-40.019 435.41783,0.97 69.73792,34.2131 42.5285,119.4158 -19.49232,139.0406 -62.02061,19.6249 -268.34064,17.3471 -358.76605,8.4497 -86.09744,-8.4716 -100.55461,-34.042 -104.78967,-85.5279 -1.72849,-21.0134 11.19527,-37.9911 47.63021,-62.9324 z"
+       d="m 225.74598,2103.0688 c 30.39282,-24.941 293.51793,-40.019 363.2128,0.97 58.17333,34.2131 35.47603,119.4158 -16.25992,139.0406 -51.73578,19.6249 -223.8419,17.3471 -299.27213,8.4497 -71.81997,-8.4716 -83.87971,-34.042 -87.41248,-85.5279 -1.44185,-21.0134 9.33877,-37.9911 39.73173,-62.9324 z"
        id="path4040-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -118,7 +118,7 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 714.12625,986.94516 c 84.34314,76.20474 116.92693,4.10974 115.68817,-68.98054 34.4303,78.98295 58.32339,96.64768 72.49351,57.73229 45.58343,33.44939 74.05415,24.06659 96.658,0 8.42497,30.95129 26.49257,18.46144 42.12907,16.92395 5.15,7.00256 -12.5382,24.39984 58.9223,1.22057 4.6289,9.26847 10.8645,17.25027 52.7225,-3.29902 10.8441,37.61999 45.637,-2.08501 81.2806,-44.53639 -22.2069,52.19038 -23.527,54.51378 4.849,34.53961 -4.2761,8.87204 -11.2389,26.62867 17.4527,7.39608 -16.8746,39.67059 40.2207,-11.58513 111.6797,-68.56229 -35.7449,42.11709 -118.9767,141.47828 -56.5447,135.59278 -8.7065,12.4163 -37.9312,27.0205 49.976,37.8388 -17.2656,8.4254 -69.9772,-3.8866 -26.0063,31.7868 5.8913,4.17 -13.8311,6.7164 23.8096,17.698 -22.2198,-0.7471 -35.8465,1.9218 -15.3775,18.1444 -40.5591,-0.8771 -25.3836,16.1811 4.3936,37.9384 -58.7352,-27.9084 -61.9677,-17.7653 -63.7065,-6.5979 -73.6125,-38.0486 -77.9337,-26.0692 -87.8706,-18.1446 -35.8807,0.297 -71.7613,-4.4945 -107.642,37.9385 -9.3967,-26.3922 -28.2358,-46.7073 -107.64166,-28.0414 34.86516,-33.5755 -14.73519,-12.1844 -52.72249,1.6494 20.80261,-41.9441 -31.99171,-14.4162 -98.85483,26.392 37.44308,-46.318 -40.58902,-50.0607 -103.60554,-17.1747 43.99899,-35.9057 56.88246,-45.1264 -35.79273,-46.8966 44.35722,-16.4134 33.88034,-38.9778 -12.17888,-76.1358 51.92188,10.9414 67.40944,0.7783 30.75473,-39.5878 56.63294,33.1322 27.23117,-0.3773 5.13425,-44.83454 z"
+       d="m 715.20814,986.94516 c 86.88578,76.20474 120.45186,4.10974 119.17575,-68.98054 35.46825,78.98295 60.08163,96.64768 74.67893,57.73229 46.95761,33.44939 76.28662,24.06659 99.57188,0 8.679,30.95129 27.2912,18.46144 43.3991,16.92395 5.3053,7.00256 -12.9162,24.39984 60.6986,1.22057 4.7685,9.26847 11.192,17.25027 54.3119,-3.29902 11.171,37.61999 47.0128,-2.08501 83.7309,-44.53639 -22.8763,52.19038 -24.2362,54.51378 4.9952,34.53961 -4.405,8.87204 -11.5777,26.62867 17.9788,7.39608 -17.3833,39.67059 41.4333,-11.58513 115.0465,-68.56229 -36.8225,42.11709 -122.5634,141.47828 -58.2493,135.59278 -8.969,12.4163 -39.0747,27.0205 51.4826,37.8388 -17.7861,8.4254 -72.0868,-3.8866 -26.7903,31.7868 6.0689,4.17 -14.2481,6.7164 24.5273,17.698 -22.8896,-0.7471 -36.9271,1.9218 -15.841,18.1444 -41.7818,-0.8771 -26.1489,16.1811 4.526,37.9384 -60.5058,-27.9084 -63.8358,-17.7653 -65.627,-6.5979 -75.8317,-38.0486 -80.2831,-26.0692 -90.5196,-18.1446 -36.9624,0.297 -73.9246,-4.4945 -110.887,37.9385 -9.68,-26.3922 -29.087,-46.7073 -110.88668,-28.0414 35.91618,-33.5755 -15.1794,-12.1844 -54.31188,1.6494 21.42973,-41.9441 -32.95615,-14.4162 -101.83495,26.392 38.57186,-46.318 -41.81263,-50.0607 -106.72887,-17.1747 45.3254,-35.9057 58.59726,-45.1264 -36.87175,-46.8966 45.69443,-16.4134 34.90171,-38.9778 -12.54603,-76.1358 53.48713,10.9414 69.44159,0.7783 31.68187,-39.5878 58.34022,33.1322 28.05209,-0.3773 5.28903,-44.83454 z"
        id="path4508"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
@@ -157,20 +157,19 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.31860447px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
        x="392.25803"
        y="978.92853"
-       id="text4246"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246"><tspan
          sodipodi:role="line"
-         style="font-size:51.59302139px;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-size:51.59302139px;line-height:1.25;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="392.25803"
          y="978.92853"
          id="tspan4150">Maar het <tspan
    style="stroke:#000000;stroke-width:1.67974544;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan4183">milieu</tspan>!</tspan><tspan
          sodipodi:role="line"
-         style="font-size:51.59302139px;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-size:51.59302139px;line-height:1.25;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none"
          x="392.25803"
          y="1043.4198"
          id="tspan4176">De <tspan
@@ -178,171 +177,162 @@
    id="tspan4185">natuur</tspan>!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.69629097px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none"
        x="972.51471"
        y="242.65163"
        id="text4246-7"
-       sodipodi:linespacing="125%"
        transform="scale(0.97469088,1.0259663)"><tspan
          sodipodi:role="line"
-         style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:58.48145294px;line-height:1.25;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
          y="242.65163"
          id="tspan3397"> Dat heeft ons</tspan><tspan
          sodipodi:role="line"
-         style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:58.48145294px;line-height:1.25;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
          y="315.75345"
          id="tspan3401">nog nooit</tspan><tspan
          sodipodi:role="line"
-         style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:58.48145294px;line-height:1.25;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
          y="388.85526"
          id="tspan3403">enig probleem</tspan><tspan
          sodipodi:role="line"
-         style="font-size:58.48145294px;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:58.48145294px;line-height:1.25;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="972.51471"
          y="461.95706"
          id="tspan3405">opgeleverd!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.69629097px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-miterlimit:4;stroke-dasharray:none"
        x="1041.7201"
-       y="1097.7078"
+       y="1093.8091"
        id="text4246-7-9"
-       sodipodi:linespacing="125%"
        transform="scale(0.97469088,1.0259663)"><tspan
          sodipodi:role="line"
-         style="font-size:58.48145294px;stroke:#000000;stroke-width:2.24178886;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:58.48145294px;line-height:1.25;stroke:#000000;stroke-width:2.24178886;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1052"
-         y="1097.7078"
+         y="1093.8091"
          id="tspan4221-2"> ZO DIEP MOGELIJK! </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="393.99847"
        y="1112.822"
-       id="text4246-70"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-70"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="393.99847"
          y="1112.822"
          id="tspan4176-6">We kunnen niet zomaar</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="393.99847"
          y="1169.072"
          id="tspan3427">blijven vervuilen zonder</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="393.99847"
          y="1225.322"
          id="tspan4208">grote consequenties!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1023.0608"
        y="921.86768"
-       id="text4246-70-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-70-2"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="1023.0608"
          y="921.86768"
          id="tspan4176-6-1">Wij zijn heksen van</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="1023.0608"
          y="978.11768"
          id="tspan4328">Chaosah! En onze</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="1023.0608"
          y="1034.3677"
          id="tspan3425">problemen begraven we</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1030.9279"
        y="1190.6296"
-       id="text4246-70-2-8"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-70-2-8"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="1030.9279"
          y="1190.6296"
          id="tspan3413">Aan tradities wordt</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="1030.9279"
          y="1246.8796"
          id="tspan3388">niet getornd!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="338.31299"
        y="1473.3076"
-       id="text4246-70-2-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-70-2-2"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="338.31299"
          y="1473.3076"
          id="tspan4406">O, kijk wat</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="338.31299"
          y="1529.5576"
          id="tspan3453">ik hier vind!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="437.16556"
        y="1635.5212"
-       id="text4246-70-2-2-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-70-2-2-2"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="437.16556"
          y="1635.5212"
          id="tspan4406-9">Niet te geloven!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="406.42914"
        y="2153.1394"
-       id="text4246-70-2-2-2-7"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-70-2-2-2-7"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="406.42914"
          y="2153.1394"
-         id="tspan4190">Hoe is die</tspan><tspan
+         id="tspan3446">Hoe is die hier</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="406.42914"
          y="2209.3894"
-         id="tspan3446">hier terechtgekomen?</tspan></text>
+         id="tspan61">terechtgekomen?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="509.49463"
        y="2483.7622"
-       id="text4246-70-2-2-2-7-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-70-2-2-2-7-6"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="509.49463"
          y="2483.7622"
          id="tspan4482">Hij moet wel een</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="509.49463"
          y="2540.0122"
          id="tspan4486">beetje gestemd worden,</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="509.49463"
          y="2596.2622"
          id="tspan3461">maar hij klinkt nog goed.</tspan></text>
